@@ -1,0 +1,1222 @@
+team1,team2,winner,winner_team_score,winner_team_wicket,opponent_team_score,opponent_team_wicket,winner_played_at,match_date,time_of_day,series,toss,toss_decision,ground_country
+West Indies,Australia,Australia,173,9,172,9,home,"Jan 1, 1996",Day and night,Benson & Hedges World Series,West Indies,bat first,Australia
+West Indies,Sri Lanka,West Indies,194,10,124,10,away,"Jan 3, 1996",Day,Benson & Hedges World Series,Sri Lanka,field first,Australia
+Sri Lanka,West Indies,West Indies,104,3,102,3,away,"Jan 5, 1996",Day and night,Benson & Hedges World Series,Sri Lanka,bat first,Australia
+West Indies,Australia,West Indies,231,10,217,10,away,"Jan 7, 1996",Day,Benson & Hedges World Series,Australia,field first,Australia
+Australia,Sri Lanka,Sri Lanka,214,7,213,7,away,"Jan 9, 1996",Day and night,Benson & Hedges World Series,Australia,bat first,Australia
+South Africa,England,South Africa,211,8,205,8,home,"Jan 9, 1996",Day and night,England tour of South Africa,South Africa,bat first,South Africa
+South Africa,England,England,265,5,262,5,away,"Jan 11, 1996",Day and night,England tour of South Africa,South Africa,bat first,South Africa
+Australia,Sri Lanka,Australia,266,6,183,6,home,"Jan 12, 1996",Day and night,Benson & Hedges World Series,Australia,bat first,Australia
+England,South Africa,South Africa,199,7,198,7,home,"Jan 13, 1996",Day,England tour of South Africa,England,bat first,South Africa
+Sri Lanka,West Indies,Sri Lanka,202,10,186,10,away,"Jan 14, 1996",Day,Benson & Hedges World Series,West Indies,field first,Australia
+England,South Africa,South Africa,276,3,272,3,home,"Jan 14, 1996",Day,England tour of South Africa,England,bat first,South Africa
+Australia,Sri Lanka,Sri Lanka,246,7,242,7,away,"Jan 16, 1996",Day and night,Benson & Hedges World Series,Australia,bat first,Australia
+England,South Africa,South Africa,185,5,184,5,home,"Jan 17, 1996",Day and night,England tour of South Africa,South Africa,field first,South Africa
+South Africa,England,South Africa,129,10,115,10,home,"Jan 19, 1996",Day and night,England tour of South Africa,South Africa,bat first,South Africa
+South Africa,England,South Africa,218,9,154,9,home,"Jan 21, 1996",Day,England tour of South Africa,South Africa,bat first,South Africa
+New Zealand,Zimbabwe,New Zealand,278,5,204,5,home,"Jan 28, 1996",Day,Zimbabwe tour of New Zealand,New Zealand,bat first,New Zealand
+Zimbabwe,New Zealand,New Zealand,184,4,181,4,home,"Jan 31, 1996",Day,Zimbabwe tour of New Zealand,Zimbabwe,bat first,New Zealand
+Zimbabwe,New Zealand,Zimbabwe,267,7,246,7,away,"Feb 3, 1996",Day and night,Zimbabwe tour of New Zealand,New Zealand,field first,New Zealand
+New Zealand,England,New Zealand,239,6,228,6,away,"Feb 14, 1996",Day,Wills World Cup,England,field first,India
+South Africa,United Arab Emirates,South Africa,321,2,152,2,away,"Feb 16, 1996",Day,Wills World Cup,United Arab Emirates,field first,Pakistan
+Zimbabwe,West Indies,West Indies,155,4,151,4,away,"Feb 16, 1996",Day and night,Wills World Cup,Zimbabwe,bat first,India
+New Zealand,Netherlands,New Zealand,307,8,188,8,away,"Feb 17, 1996",Day,Wills World Cup,New Zealand,bat first,India
+Kenya,India,India,203,3,199,3,home,"Feb 18, 1996",Day,Wills World Cup,India,field first,India
+United Arab Emirates,England,England,140,2,136,2,away,"Feb 18, 1996",Day,Wills World Cup,United Arab Emirates,bat first,Pakistan
+New Zealand,South Africa,South Africa,178,5,177,5,away,"Feb 20, 1996",Day,Wills World Cup,New Zealand,bat first,Pakistan
+Zimbabwe,Sri Lanka,Sri Lanka,229,4,228,4,home,"Feb 21, 1996",Day,Wills World Cup,Zimbabwe,bat first,Sri Lanka
+West Indies,India,India,174,5,173,5,home,"Feb 21, 1996",Day and night,Wills World Cup,West Indies,bat first,India
+England,Netherlands,England,279,4,230,4,away,"Feb 22, 1996",Day,Wills World Cup,England,bat first,Pakistan
+Australia,Kenya,Australia,304,7,207,7,away,"Feb 23, 1996",Day,Wills World Cup,Kenya,field first,India
+United Arab Emirates,Pakistan,Pakistan,112,1,109,1,home,"Feb 24, 1996",Day,Wills World Cup,Pakistan,field first,Pakistan
+South Africa,England,South Africa,230,10,152,10,away,"Feb 25, 1996",Day,Wills World Cup,South Africa,bat first,Pakistan
+Netherlands,Pakistan,Pakistan,151,2,145,2,home,"Feb 26, 1996",Day,Wills World Cup,Netherlands,bat first,Pakistan
+Kenya,Zimbabwe,Zimbabwe,137,5,134,5,away,"Feb 27, 1996",Day,Wills World Cup,Zimbabwe,field first,India
+New Zealand,United Arab Emirates,New Zealand,276,8,167,8,away,"Feb 27, 1996",Day,Wills World Cup,United Arab Emirates,field first,Pakistan
+Australia,India,Australia,258,10,242,10,away,"Feb 27, 1996",Day and night,Wills World Cup,Australia,bat first,India
+Kenya,West Indies,Kenya,166,10,93,10,away,"Feb 29, 1996",Day,Wills World Cup,West Indies,field first,India
+Pakistan,South Africa,South Africa,243,5,242,5,away,"Feb 29, 1996",Day,Wills World Cup,Pakistan,bat first,Pakistan
+Zimbabwe,Australia,Australia,158,2,154,2,away,"Mar 1, 1996",Day,Wills World Cup,Zimbabwe,bat first,India
+Netherlands,United Arab Emirates,U.A.E.,220,3,216,3,away,"Mar 1, 1996",Day,Wills World Cup,United Arab Emirates,field first,Pakistan
+India,Sri Lanka,Sri Lanka,272,4,271,4,away,"Mar 2, 1996",Day,Wills World Cup,Sri Lanka,field first,India
+England,Pakistan,Pakistan,250,3,249,3,home,"Mar 3, 1996",Day,Wills World Cup,England,bat first,Pakistan
+Australia,West Indies,West Indies,232,6,229,6,away,"Mar 4, 1996",Day,Wills World Cup,Australia,bat first,India
+South Africa,Netherlands,South Africa,328,3,168,3,away,"Mar 5, 1996",Day,Wills World Cup,South Africa,bat first,Pakistan
+India,Zimbabwe,India,247,5,207,5,home,"Mar 6, 1996",Day,Wills World Cup,Zimbabwe,field first,India
+Sri Lanka,Kenya,Sri Lanka,398,5,254,5,home,"Mar 6, 1996",Day,Wills World Cup,Kenya,field first,Sri Lanka
+Pakistan,New Zealand,Pakistan,281,5,235,5,home,"Mar 6, 1996",Day,Wills World Cup,New Zealand,field first,Pakistan
+England,Sri Lanka,Sri Lanka,236,5,235,5,away,"Mar 9, 1996",Day,Wills World Cup,England,bat first,Pakistan
+India,Pakistan,India,287,8,248,8,home,"Mar 9, 1996",Day and night,Wills World Cup,India,bat first,India
+West Indies,South Africa,West Indies,264,8,245,8,away,"Mar 11, 1996",Day,Wills World Cup,West Indies,bat first,Pakistan
+New Zealand,Australia,Australia,289,4,286,4,away,"Mar 11, 1996",Day and night,Wills World Cup,New Zealand,bat first,India
+Sri Lanka,India,Sri Lanka,251,8,120,8,away,"Mar 13, 1996",Day and night,Wills World Cup,India,field first,India
+Australia,Sri Lanka,Sri Lanka,245,3,241,3,away,"Mar 17, 1996",Day and night,Wills World Cup,Sri Lanka,field first,Pakistan
+New Zealand,West Indies,West Indies,247,9,243,9,home,"Mar 26, 1996",Day,New Zealand tour of West Indies,West Indies,field first,West Indies
+West Indies,New Zealand,New Zealand,239,6,238,6,away,"Mar 29, 1996",Day,New Zealand tour of West Indies,New Zealand,field first,West Indies
+New Zealand,West Indies,West Indies,225,3,219,3,home,"Mar 30, 1996",Day,New Zealand tour of West Indies,New Zealand,bat first,West Indies
+Sri Lanka,Pakistan,Sri Lanka,349,9,315,9,away,"Apr 2, 1996",Day,Singer Cup,Pakistan,field first,Singapore
+India,Sri Lanka,India,199,10,187,10,away,"Apr 3, 1996",Day,Singer Cup,India,bat first,Singapore
+New Zealand,West Indies,New Zealand,158,10,154,10,away,"Apr 3, 1996",Day,New Zealand tour of West Indies,West Indies,field first,Guyana
+India,Pakistan,Pakistan,190,2,226,2,away,"Apr 5, 1996",Day,Singer Cup,Pakistan,field first,Singapore
+New Zealand,West Indies,West Indies,242,3,241,3,home,"Apr 6, 1996",Day,New Zealand tour of West Indies,West Indies,field first,West Indies
+Pakistan,Sri Lanka,Pakistan,215,10,172,10,away,"Apr 7, 1996",Day,Singer Cup,Sri Lanka,field first,Singapore
+Pakistan,India,Pakistan,271,5,233,5,away,"Apr 12, 1996",Day,Pepsi Sharjah Cup,India,field first,United Arab Emirates
+South Africa,Pakistan,South Africa,314,3,171,3,away,"Apr 13, 1996",Day,Pepsi Sharjah Cup,South Africa,bat first,United Arab Emirates
+Sri Lanka,West Indies,Sri Lanka,251,10,216,10,away,"Apr 13, 1996",Day,Sri Lanka tour of West Indies,Sri Lanka,bat first,West Indies
+South Africa,India,South Africa,288,6,208,6,away,"Apr 14, 1996",Day,Pepsi Sharjah Cup,South Africa,bat first,United Arab Emirates
+India,Pakistan,India,305,5,277,5,away,"Apr 15, 1996",Day,Pepsi Sharjah Cup,India,bat first,United Arab Emirates
+Pakistan,South Africa,South Africa,189,2,188,2,away,"Apr 16, 1996",Day,Pepsi Sharjah Cup,Pakistan,bat first,United Arab Emirates
+India,South Africa,South Africa,216,5,215,5,away,"Apr 17, 1996",Day,Pepsi Sharjah Cup,India,bat first,United Arab Emirates
+South Africa,India,South Africa,287,5,249,5,away,"Apr 19, 1996",Day,Pepsi Sharjah Cup,South Africa,bat first,United Arab Emirates
+India,England,England,162,4,158,4,home,"May 25, 1996",Day,India tour of England,England,field first,England
+India,England,England,239,6,236,6,home,"May 26-27, 1996",Day,India tour of England,India,bat first,England
+Australia,Zimbabwe,Australia,263,7,138,7,away,"Aug 26, 1996",Day and night,Singer World Series,Australia,bat first,Sri Lanka
+India,Sri Lanka,Sri Lanka,230,1,226,1,home,"Aug 28, 1996",Day and night,Singer World Series,India,bat first,Sri Lanka
+Pakistan,England,England,226,5,225,5,home,"Aug 29, 1996",Day,Pakistan tour of England and Scotland,Pakistan,bat first,England
+Australia,Sri Lanka,Sri Lanka,232,6,228,6,home,"Aug 30, 1996",Day and night,Singer World Series,Australia,bat first,Sri Lanka
+England,Pakistan,England,292,8,185,8,home,"Aug 31, 1996",Day,Pakistan tour of England and Scotland,Pakistan,field first,England
+Zimbabwe,India,India,229,3,226,3,away,"Sep 1, 1996",Day,Singer World Series,India,field first,Sri Lanka
+England,Pakistan,Pakistan,247,8,246,8,away,"Sep 1, 1996",Day,Pakistan tour of England and Scotland,England,bat first,England
+Zimbabwe,Sri Lanka,Sri Lanka,228,4,227,4,home,"Sep 3, 1996",Day,Singer World Series,Sri Lanka,field first,Sri Lanka
+India,Australia,Australia,202,7,201,7,away,"Sep 6, 1996",Day,Singer World Series,Australia,field first,Sri Lanka
+Sri Lanka,Australia,Sri Lanka,234,3,184,3,home,"Sep 7, 1996",Day,Singer World Series,Australia,field first,Sri Lanka
+Pakistan,India,India,173,2,170,2,away,"Sep 16, 1996",Day,Pakistan tour of Canada,India,field first,Canada
+India,Pakistan,Pakistan,266,8,264,8,away,"Sep 17, 1996",Day,Pakistan tour of Canada,Pakistan,field first,Canada
+India,Pakistan,India,191,10,136,10,away,"Sep 18, 1996",Day,Pakistan tour of Canada,India,bat first,Canada
+Pakistan,India,Pakistan,258,8,161,8,away,"Sep 21, 1996",Day,Pakistan tour of Canada,India,field first,Canada
+Pakistan,India,Pakistan,213,9,161,9,away,"Sep 23, 1996",Day,Pakistan tour of Canada,Pakistan,bat first,Canada
+Kenya,Sri Lanka,Sri Lanka,190,3,188,3,away,"Sep 28, 1996",Day,KCA Centenary Tournament,Sri Lanka,field first,Kenya
+South Africa,Pakistan,South Africa,321,8,259,8,away,"Sep 29, 1996",Day,KCA Centenary Tournament,Pakistan,field first,Kenya
+South Africa,Sri Lanka,Sri Lanka,170,8,169,8,away,"Oct 1, 1996",Day,KCA Centenary Tournament,South Africa,bat first,Kenya
+Kenya,Pakistan,Pakistan,149,6,148,6,away,"Oct 2, 1996",Day,KCA Centenary Tournament,Kenya,bat first,Kenya
+South Africa,Kenya,South Africa,305,8,103,8,away,"Oct 3, 1996",Day,KCA Centenary Tournament,South Africa,bat first,Kenya
+Pakistan,Sri Lanka,Pakistan,371,9,289,9,away,"Oct 4, 1996",Day,KCA Centenary Tournament,Sri Lanka,field first,Kenya
+Pakistan,South Africa,South Africa,204,3,203,3,away,"Oct 6, 1996",Day,KCA Centenary Tournament,Pakistan,bat first,Kenya
+South Africa,India,South Africa,261,7,214,7,away,"Oct 17, 1996",Day and night,Titan Cup,South Africa,bat first,India
+Australia,South Africa,South Africa,220,3,219,3,away,"Oct 19, 1996",Day,Titan Cup,Australia,bat first,India
+Australia,India,India,216,8,215,8,home,"Oct 21, 1996",Day and night,Titan Cup,Australia,bat first,India
+South Africa,India,South Africa,249,6,222,6,away,"Oct 23, 1996",Day,Titan Cup,India,field first,India
+Australia,South Africa,South Africa,218,8,215,8,away,"Oct 25, 1996",Day,Titan Cup,Australia,bat first,India
+India,South Africa,South Africa,188,5,185,5,away,"Oct 29, 1996",Day,Titan Cup,India,bat first,India
+Zimbabwe,Pakistan,Pakistan,239,7,237,7,home,"Oct 30, 1996",Day,Zimbabwe tour of Pakistan,Zimbabwe,bat first,Pakistan
+Australia,South Africa,South Africa,239,2,238,2,away,"Nov 1, 1996",Day,Titan Cup,Australia,bat first,India
+Zimbabwe,Pakistan,Pakistan,196,1,195,1,home,"Nov 1, 1996",Day,Zimbabwe tour of Pakistan,Zimbabwe,bat first,Pakistan
+Pakistan,Zimbabwe,Pakistan,264,9,147,9,home,"Nov 3, 1996",Day,Zimbabwe tour of Pakistan,Pakistan,bat first,Pakistan
+India,Australia,India,289,6,284,6,home,"Nov 3, 1996",Day and night,Titan Cup,Australia,field first,India
+India,South Africa,India,220,7,185,7,home,"Nov 6, 1996",Day and night,Titan Cup,India,bat first,India
+New Zealand,Sri Lanka,New Zealand,206,8,177,8,away,"Nov 7, 1996",Day,Singer Champions Trophy,Sri Lanka,field first,United Arab Emirates
+Sri Lanka,Pakistan,Sri Lanka,206,10,131,10,away,"Nov 8, 1996",Day,Singer Champions Trophy,Pakistan,field first,United Arab Emirates
+New Zealand,Pakistan,Pakistan,198,6,197,6,away,"Nov 10, 1996",Day,Singer Champions Trophy,New Zealand,bat first,United Arab Emirates
+Sri Lanka,Pakistan,Pakistan,193,2,189,2,away,"Nov 12, 1996",Day,Singer Champions Trophy,Sri Lanka,bat first,United Arab Emirates
+New Zealand,Pakistan,Pakistan,196,6,192,6,away,"Nov 13, 1996",Day,Singer Champions Trophy,Pakistan,field first,United Arab Emirates
+Pakistan,New Zealand,Pakistan,160,10,119,10,away,"Nov 15, 1996",Day,Singer Champions Trophy,New Zealand,field first,United Arab Emirates
+Pakistan,New Zealand,Pakistan,228,8,217,8,home,"Dec 4, 1996",Day,New Zealand tour of Pakistan,Pakistan,bat first,Pakistan
+West Indies,Australia,Australia,173,5,172,5,home,"Dec 6, 1996",Day and night,Carlton & United Series,West Indies,bat first,Australia
+Pakistan,New Zealand,Pakistan,277,9,231,9,home,"Dec 6, 1996",Day,New Zealand tour of Pakistan,Pakistan,bat first,Pakistan
+West Indies,Australia,Australia,162,2,161,2,home,"Dec 8, 1996",Day and night,Carlton & United Series,West Indies,bat first,Australia
+Pakistan,New Zealand,New Zealand,235,3,234,3,away,"Dec 8, 1996",Day,New Zealand tour of Pakistan,Pakistan,bat first,Pakistan
+India,South Africa,India,267,6,193,6,home,"Dec 14, 1996",Day and night,South Africa tour of India,India,bat first,India
+Pakistan,Australia,Pakistan,223,10,211,10,away,"Dec 15, 1996",Day,Carlton & United Series,Pakistan,bat first,Australia
+England,Zimbabwe,Zimbabwe,153,8,152,8,home,"Dec 15, 1996",Day,England tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Pakistan,West Indies,West Indies,177,3,176,3,away,"Dec 17, 1996",Day,Carlton & United Series,West Indies,field first,Australia
+Australia,Pakistan,Pakistan,203,6,199,6,away,"Jan 1, 1997",Day and night,Carlton & United Series,Australia,bat first,Australia
+Zimbabwe,England,Zimbabwe,200,10,179,10,home,"Jan 1, 1997",Day,England tour of Zimbabwe,England,field first,Zimbabwe
+Pakistan,West Indies,West Indies,198,4,197,4,away,"Jan 3, 1997",Day and night,Carlton & United Series,West Indies,field first,Australia
+Zimbabwe,England,Zimbabwe,249,7,118,7,home,"Jan 3, 1997",Day,England tour of Zimbabwe,England,field first,Zimbabwe
+Australia,West Indies,West Indies,284,3,281,3,away,"Jan 5, 1997",Day and night,Carlton & United Series,Australia,bat first,Australia
+Pakistan,Australia,Pakistan,149,10,120,10,away,"Jan 7, 1997",Day,Carlton & United Series,Pakistan,bat first,Australia
+Pakistan,West Indies,West Indies,258,5,257,5,away,"Jan 10, 1997",Day and night,Carlton & United Series,West Indies,field first,Australia
+Australia,West Indies,West Indies,269,6,267,6,away,"Jan 12, 1997",Day,Carlton & United Series,Australia,bat first,Australia
+West Indies,Pakistan,Pakistan,183,2,181,2,away,"Jan 14, 1997",Day and night,Carlton & United Series,Pakistan,field first,Australia
+Pakistan,Australia,Australia,182,7,181,7,home,"Jan 16, 1997",Day and night,Carlton & United Series,Pakistan,bat first,Australia
+South Africa,India,South Africa,270,4,231,4,home,"Jan 23, 1997",Day and night,Standard Bank International One-Day Series,South Africa,bat first,South Africa
+Zimbabwe,South Africa,South Africa,212,5,211,5,home,"Jan 25, 1997",Day and night,Standard Bank International One-Day Series,Zimbabwe,bat first,South Africa
+Zimbabwe,South Africa,South Africa,229,5,226,5,home,"Jan 29, 1997",Day and night,Standard Bank International One-Day Series,Zimbabwe,bat first,South Africa
+Zimbabwe,South Africa,South Africa,259,6,256,6,home,"Jan 31, 1997",Day and night,Standard Bank International One-Day Series,Zimbabwe,bat first,South Africa
+India,South Africa,South Africa,180,4,179,4,home,"Feb 2, 1997",Day,Standard Bank International One-Day Series,India,bat first,South Africa
+India,South Africa,South Africa,236,4,232,4,home,"Feb 4, 1997",Day and night,Standard Bank International One-Day Series,India,bat first,South Africa
+India,Zimbabwe,Zimbabwe,171,7,216,7,away,"Feb 7, 1997",Day and night,Standard Bank International One-Day Series,India,bat first,South Africa
+Zimbabwe,India,India,241,4,240,4,away,"Feb 9, 1997",Day,Standard Bank International One-Day Series,India,field first,South Africa
+South Africa,India,South Africa,278,8,234,8,home,"Feb 13, 1997",Day and night,Standard Bank International One-Day Series,South Africa,bat first,South Africa
+India,Zimbabwe,Zimbabwe,139,2,168,2,home,"Feb 15, 1997",Day,India tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+New Zealand,England,England,226,6,222,6,away,"Feb 20, 1997",Day and night,England tour of New Zealand,New Zealand,bat first,New Zealand
+New Zealand,England,England,134,4,253,4,away,"Feb 23, 1997",Day,England tour of New Zealand,New Zealand,bat first,New Zealand
+New Zealand,England,New Zealand,153,10,144,10,home,"Mar 2, 1997",Day,England tour of New Zealand,England,field first,New Zealand
+New Zealand,England,New Zealand,228,8,200,8,home,"Mar 4, 1997",Day,England tour of New Zealand,New Zealand,bat first,New Zealand
+New Zealand,Sri Lanka,Sri Lanka,202,4,201,4,away,"Mar 25, 1997",Day and night,Sri Lanka tour of New Zealand,Sri Lanka,field first,New Zealand
+New Zealand,Sri Lanka,New Zealand,201,10,132,10,home,"Mar 27, 1997",Day,Sri Lanka tour of New Zealand,Sri Lanka,field first,New Zealand
+Australia,South Africa,South Africa,227,4,223,4,home,"Mar 29, 1997",Day,Australia tour of South Africa,South Africa,field first,South Africa
+South Africa,Australia,Australia,222,3,221,3,away,"Mar 31, 1997",Day,Australia tour of South Africa,Australia,field first,South Africa
+South Africa,Australia,South Africa,245,8,199,8,home,"Apr 2, 1997",Day and night,Australia tour of South Africa,Australia,field first,South Africa
+Zimbabwe,Sri Lanka,Sri Lanka,188,3,187,3,away,"Apr 3, 1997",Day,Singer-Akai Cup,Sri Lanka,field first,United Arab Emirates
+Sri Lanka,Pakistan,Sri Lanka,243,8,224,8,away,"Apr 4, 1997",Day,Singer-Akai Cup,Pakistan,field first,United Arab Emirates
+Australia,South Africa,Australia,211,9,196,9,away,"Apr 5, 1997",Day and night,Australia tour of South Africa,Australia,bat first,South Africa
+Pakistan,Zimbabwe,Pakistan,187,10,94,10,away,"Apr 6, 1997",Day,Singer-Akai Cup,Pakistan,bat first,United Arab Emirates
+Sri Lanka,Pakistan,Sri Lanka,251,7,200,7,away,"Apr 7, 1997",Day,Singer-Akai Cup,Sri Lanka,bat first,United Arab Emirates
+Zimbabwe,Sri Lanka,Zimbabwe,203,10,153,10,away,"Apr 8, 1997",Day,Singer-Akai Cup,Zimbabwe,bat first,United Arab Emirates
+Australia,South Africa,Australia,258,7,250,7,away,"Apr 8, 1997",Day and night,Australia tour of South Africa,Australia,bat first,South Africa
+Pakistan,Zimbabwe,Pakistan,151,9,119,9,away,"Apr 9, 1997",Day,Singer-Akai Cup,Pakistan,bat first,United Arab Emirates
+South Africa,Australia,Australia,287,5,284,5,away,"Apr 10, 1997",Day and night,Australia tour of South Africa,South Africa,bat first,South Africa
+Pakistan,Sri Lanka,Sri Lanka,215,6,214,6,away,"Apr 11, 1997",Day,Singer-Akai Cup,Pakistan,bat first,United Arab Emirates
+South Africa,Australia,South Africa,310,6,201,6,home,"Apr 13, 1997",Day,Australia tour of South Africa,Australia,field first,South Africa
+India,West Indies,West Indies,149,2,179,2,home,"Apr 26, 1997",Day,India tour of West Indies,India,bat first,West Indies
+West Indies,India,India,116,0,121,0,away,"Apr 27, 1997",Day,India tour of West Indies,India,field first,West Indies
+West Indies,India,West Indies,249,9,231,9,home,"Apr 30, 1997",Day,India tour of West Indies,India,field first,West Indies
+India,West Indies,West Indies,200,0,199,0,home,"May 3, 1997",Day,India tour of West Indies,West Indies,field first,West Indies
+New Zealand,Pakistan,New Zealand,285,7,263,7,away,"May 9, 1997",Day and night,Pepsi Independence Cup,Pakistan,field first,India
+Pakistan,Sri Lanka,Pakistan,289,6,259,6,away,"May 12, 1997",Day and night,Pepsi Independence Cup,Pakistan,bat first,India
+New Zealand,India,India,221,2,220,2,home,"May 14, 1997",Day and night,Pepsi Independence Cup,New Zealand,bat first,India
+India,Sri Lanka,Sri Lanka,229,5,225,5,away,"May 17, 1997",Day and night,Pepsi Independence Cup,India,bat first,India
+Sri Lanka,New Zealand,Sri Lanka,214,10,162,10,away,"May 20, 1997",Day and night,Pepsi Independence Cup,Sri Lanka,bat first,India
+Pakistan,India,Pakistan,327,5,292,5,away,"May 21, 1997",Day and night,Pepsi Independence Cup,Pakistan,bat first,India
+Australia,England,England,175,4,170,4,home,"May 22, 1997",Day,Australia tour of England and Scotland,England,field first,England
+Sri Lanka,Pakistan,Sri Lanka,339,4,224,4,away,"May 24, 1997",Day and night,Pepsi Independence Cup,Sri Lanka,bat first,India
+Australia,England,England,253,4,249,4,home,"May 24, 1997",Day,Australia tour of England and Scotland,England,field first,England
+Australia,England,England,270,4,269,4,home,"May 25, 1997",Day,Australia tour of England and Scotland,England,field first,England
+Sri Lanka,Pakistan,Sri Lanka,309,10,224,10,away,"May 27, 1997",Day and night,Pepsi Independence Cup,Sri Lanka,bat first,India
+West Indies,Sri Lanka,West Indies,283,7,248,7,home,"Jun 6, 1997",Day,Sri Lanka tour of West Indies,Sri Lanka,field first,West Indies
+Sri Lanka,Pakistan,Sri Lanka,239,10,224,10,home,"Jul 14, 1997",Day,Pepsi Asia Cup,Pakistan,field first,Sri Lanka
+Pakistan,Bangladesh,Pakistan,319,5,210,5,away,"Jul 16, 1997",Day,Pepsi Asia Cup,Pakistan,bat first,Sri Lanka
+India,Sri Lanka,Sri Lanka,231,4,227,4,home,"Jul 18, 1997",Day,Pepsi Asia Cup,Sri Lanka,field first,Sri Lanka
+Sri Lanka,Bangladesh,Sri Lanka,296,4,193,4,home,"Jul 22, 1997",Day,Pepsi Asia Cup,Bangladesh,field first,Sri Lanka
+Bangladesh,India,India,132,1,130,1,away,"Jul 24, 1997",Day,Pepsi Asia Cup,India,field first,Sri Lanka
+India,Sri Lanka,Sri Lanka,240,2,239,2,home,"Jul 26, 1997",Day,Pepsi Asia Cup,India,bat first,Sri Lanka
+Sri Lanka,India,Sri Lanka,302,4,300,4,home,"Aug 17, 1997",Day and night,India tour of Sri Lanka,India,field first,Sri Lanka
+India,Sri Lanka,Sri Lanka,241,3,238,3,home,"Aug 20, 1997",Day and night,India tour of Sri Lanka,Sri Lanka,field first,Sri Lanka
+Sri Lanka,India,Sri Lanka,264,10,255,10,home,"Aug 24, 1997",Day,India tour of Sri Lanka,India,field first,Sri Lanka
+India,Pakistan,India,208,10,188,10,away,"Sep 13, 1997",Day,Pakistan tour of Canada,Pakistan,field first,Canada
+Pakistan,India,India,117,3,116,3,away,"Sep 14, 1997",Day,Pakistan tour of Canada,Pakistan,bat first,Canada
+India,Pakistan,India,182,6,148,6,away,"Sep 18, 1997",Day,Pakistan tour of Canada,Pakistan,field first,Canada
+Pakistan,India,India,162,3,159,3,away,"Sep 20, 1997",Day,Pakistan tour of Canada,India,field first,Canada
+India,Pakistan,Pakistan,251,5,250,5,away,"Sep 21, 1997",Day,Pakistan tour of Canada,Pakistan,field first,Canada
+India,Pakistan,Pakistan,171,5,170,5,home,"Sep 28, 1997",Day,India tour of Pakistan,India,bat first,Pakistan
+Pakistan,India,India,266,6,265,6,away,"Sep 30, 1997",Day,India tour of Pakistan,Pakistan,bat first,Pakistan
+India,Pakistan,Pakistan,219,1,216,1,home,"Oct 2, 1997",Day and night,India tour of Pakistan,Pakistan,field first,Pakistan
+New Zealand,Zimbabwe,Zimbabwe,188,7,185,7,home,"Oct 4, 1997",Day,New Zealand tour of Zimbabwe,New Zealand,bat first,Zimbabwe
+New Zealand,Zimbabwe,New Zealand,294,7,211,7,away,"Oct 5, 1997",Day,New Zealand tour of Zimbabwe,New Zealand,bat first,Zimbabwe
+Kenya,Bangladesh,Kenya,347,3,197,3,home,"Oct 10, 1997",Day,President's Cup,Bangladesh,field first,Kenya
+Zimbabwe,Bangladesh,Zimbabwe,305,4,257,4,away,"Oct 11, 1997",Day,President's Cup,Zimbabwe,bat first,Kenya
+Kenya,Zimbabwe,Zimbabwe,244,4,249,4,away,"Oct 12, 1997",Day,President's Cup,Kenya,bat first,Kenya
+Zimbabwe,Bangladesh,Zimbabwe,284,10,92,10,away,"Oct 14, 1997",Day,President's Cup,Zimbabwe,bat first,Kenya
+Bangladesh,Kenya,Kenya,102,2,100,2,home,"Oct 15, 1997",Day,President's Cup,Bangladesh,bat first,Kenya
+Kenya,Zimbabwe,Zimbabwe,210,3,207,3,away,"Oct 16, 1997",Day,President's Cup,Zimbabwe,field first,Kenya
+Zimbabwe,Kenya,Zimbabwe,281,8,172,8,away,"Oct 18, 1997",Day,President's Cup,Zimbabwe,bat first,Kenya
+Zimbabwe,Kenya,Zimbabwe,272,6,190,6,away,"Oct 19, 1997",Day,President's Cup,Zimbabwe,bat first,Kenya
+West Indies,Sri Lanka,Sri Lanka,240,3,237,3,away,"Nov 1, 1997",Day and night,Wills Quadrangular Tournament,Sri Lanka,field first,Pakistan
+South Africa,Pakistan,South Africa,271,10,262,10,away,"Nov 2, 1997",Day and night,Wills Quadrangular Tournament,Pakistan,field first,Pakistan
+West Indies,South Africa,South Africa,297,5,293,5,away,"Nov 3, 1997",Day and night,Wills Quadrangular Tournament,South Africa,field first,Pakistan
+West Indies,Pakistan,Pakistan,219,2,215,2,home,"Nov 4, 1997",Day and night,Wills Quadrangular Tournament,Pakistan,field first,Pakistan
+Pakistan,Sri Lanka,Sri Lanka,281,2,280,2,away,"Nov 5, 1997",Day and night,Wills Quadrangular Tournament,Sri Lanka,field first,Pakistan
+South Africa,Sri Lanka,South Africa,311,9,245,9,away,"Nov 6, 1997",Day and night,Wills Quadrangular Tournament,Sri Lanka,field first,Pakistan
+Sri Lanka,South Africa,South Africa,210,6,209,6,away,"Nov 8, 1997",Day and night,Wills Quadrangular Tournament,South Africa,field first,Pakistan
+South Africa,Australia,South Africa,200,10,133,10,away,"Dec 4, 1997",Day and night,Carlton & United Series,South Africa,bat first,Australia
+New Zealand,South Africa,New Zealand,224,6,177,6,away,"Dec 6, 1997",Day and night,Carlton & United Series,South Africa,field first,Australia
+New Zealand,Australia,Australia,263,7,260,7,home,"Dec 7, 1997",Day and night,Carlton & United Series,New Zealand,bat first,Australia
+South Africa,Australia,South Africa,170,8,125,8,away,"Dec 9, 1997",Day and night,Carlton & United Series,South Africa,bat first,Australia
+South Africa,New Zealand,South Africa,174,9,173,9,away,"Dec 11, 1997",Day,Carlton & United Series,South Africa,bat first,Australia
+England,India,England,250,10,243,10,away,"Dec 11, 1997",Day and night,Akai-Singer Champions Trophy,India,field first,United Arab Emirates
+West Indies,Pakistan,West Indies,275,7,232,7,away,"Dec 12, 1997",Day and night,Akai-Singer Champions Trophy,West Indies,bat first,United Arab Emirates
+West Indies,England,England,198,6,197,6,away,"Dec 13, 1997",Day and night,Akai-Singer Champions Trophy,West Indies,bat first,United Arab Emirates
+India,Pakistan,Pakistan,243,6,239,6,away,"Dec 14, 1997",Day and night,Akai-Singer Champions Trophy,India,bat first,United Arab Emirates
+England,Pakistan,England,215,9,207,9,away,"Dec 15, 1997",Day and night,Akai-Singer Champions Trophy,England,bat first,United Arab Emirates
+West Indies,India,West Indies,229,6,188,6,away,"Dec 16, 1997",Day and night,Akai-Singer Champions Trophy,India,field first,United Arab Emirates
+New Zealand,Australia,Australia,142,4,141,4,home,"Dec 17, 1997",Day and night,Carlton & United Series,New Zealand,bat first,Australia
+West Indies,England,England,239,7,235,7,away,"Dec 19, 1997",Day and night,Akai-Singer Champions Trophy,West Indies,bat first,United Arab Emirates
+Sri Lanka,India,India,173,3,172,3,home,"Dec 22, 1997",Day,Sri Lanka tour of India,India,field first,India
+India,Sri Lanka,Sri Lanka,229,5,228,5,away,"Dec 28, 1997",Day,Sri Lanka tour of India,India,bat first,India
+South Africa,New Zealand,South Africa,300,6,298,6,away,"Jan 9, 1998",Day and night,Carlton & United Series,South Africa,bat first,Australia
+Bangladesh,India,India,191,6,190,6,away,"Jan 10, 1998",Day,Silver Jubilee Independence Cup,India,field first,Bangladesh
+India,Pakistan,India,245,7,227,7,away,"Jan 11, 1998",Day,Silver Jubilee Independence Cup,Pakistan,field first,Bangladesh
+Australia,South Africa,South Africa,236,5,235,5,away,"Jan 11, 1998",Day and night,Carlton & United Series,Australia,bat first,Australia
+Bangladesh,Pakistan,Pakistan,136,1,134,1,away,"Jan 12, 1998",Day,Silver Jubilee Independence Cup,Pakistan,field first,Bangladesh
+Pakistan,India,India,213,2,212,2,away,"Jan 14, 1998",Day,Silver Jubilee Independence Cup,Pakistan,bat first,Bangladesh
+Australia,New Zealand,Australia,250,10,119,10,home,"Jan 14, 1998",Day and night,Carlton & United Series,Australia,bat first,Australia
+India,Pakistan,Pakistan,193,4,189,4,away,"Jan 16, 1998",Day,Silver Jubilee Independence Cup,India,bat first,Bangladesh
+South Africa,New Zealand,South Africa,233,7,166,7,away,"Jan 16, 1998",Day and night,Carlton & United Series,South Africa,bat first,Australia
+Pakistan,India,India,316,7,314,7,away,"Jan 18, 1998",Day,Silver Jubilee Independence Cup,India,field first,Bangladesh
+Australia,South Africa,South Africa,170,3,165,3,away,"Jan 18, 1998",Day and night,Carlton & United Series,Australia,bat first,Australia
+Australia,New Zealand,New Zealand,253,6,251,6,away,"Jan 21, 1998",Day and night,Carlton & United Series,Australia,bat first,Australia
+Zimbabwe,Sri Lanka,Sri Lanka,210,5,207,5,home,"Jan 22, 1998",Day,Zimbabwe tour of Sri Lanka,Sri Lanka,field first,Sri Lanka
+South Africa,Australia,South Africa,241,9,235,9,away,"Jan 23, 1998",Day and night,Carlton & United Series,South Africa,bat first,Australia
+Zimbabwe,Sri Lanka,Sri Lanka,213,5,212,5,home,"Jan 24, 1998",Day,Zimbabwe tour of Sri Lanka,Zimbabwe,bat first,Sri Lanka
+South Africa,Australia,Australia,229,3,228,3,home,"Jan 26, 1998",Day and night,Carlton & United Series,South Africa,bat first,Australia
+Zimbabwe,Sri Lanka,Sri Lanka,286,6,281,6,home,"Jan 26, 1998",Day,Zimbabwe tour of Sri Lanka,Zimbabwe,bat first,Sri Lanka
+Australia,South Africa,Australia,247,7,233,7,home,"Jan 27, 1998",Day and night,Carlton & United Series,Australia,bat first,Australia
+New Zealand,Zimbabwe,New Zealand,248,7,208,7,home,"Feb 4, 1998",Day,Zimbabwe tour of New Zealand,New Zealand,bat first,New Zealand
+Zimbabwe,New Zealand,New Zealand,139,2,138,2,home,"Feb 6, 1998",Day,Zimbabwe tour of New Zealand,New Zealand,field first,New Zealand
+New Zealand,Australia,Australia,215,3,212,3,away,"Feb 8, 1998",Day and night,Australia tour of New Zealand,New Zealand,bat first,New Zealand
+Australia,New Zealand,Australia,297,6,231,6,away,"Feb 10, 1998",Day,Australia tour of New Zealand,Australia,bat first,New Zealand
+Australia,New Zealand,New Zealand,240,3,236,3,home,"Feb 12, 1998",Day and night,Australia tour of New Zealand,Australia,bat first,New Zealand
+New Zealand,Australia,New Zealand,223,7,193,7,home,"Feb 14, 1998",Day,Australia tour of New Zealand,Australia,field first,New Zealand
+Zimbabwe,New Zealand,Zimbabwe,228,7,227,7,away,"Mar 4, 1998",Day and night,Zimbabwe tour of New Zealand,New Zealand,field first,New Zealand
+Zimbabwe,New Zealand,New Zealand,211,1,207,1,home,"Mar 6, 1998",Day and night,Zimbabwe tour of New Zealand,Zimbabwe,bat first,New Zealand
+New Zealand,Zimbabwe,New Zealand,231,9,229,9,home,"Mar 8, 1998",Day,Zimbabwe tour of New Zealand,New Zealand,bat first,New Zealand
+Zimbabwe,Pakistan,Pakistan,237,6,236,6,away,"Mar 28, 1998",Day,Pakistan tour of Zimbabwe,Pakistan,field first,Zimbabwe
+Zimbabwe,Pakistan,Pakistan,276,6,272,6,away,"Mar 29, 1998",Day,Pakistan tour of Zimbabwe,Pakistan,field first,Zimbabwe
+England,West Indies,England,293,5,277,5,away,"Mar 29, 1998",Day,England tour of West Indies,West Indies,field first,West Indies
+India,Australia,India,309,5,268,5,home,"Apr 1, 1998",Day,Pepsi Triangular Series,India,bat first,India
+England,West Indies,West Indies,267,9,266,9,home,"Apr 1, 1998",Day,England tour of West Indies,West Indies,field first,West Indies
+Australia,Zimbabwe,Australia,252,7,239,7,away,"Apr 3, 1998",Day,Pepsi Triangular Series,Australia,bat first,India
+South Africa,Pakistan,South Africa,280,4,228,4,home,"Apr 3, 1998",Day and night,Standard Bank International One-Day Series,South Africa,bat first,South Africa
+England,West Indies,West Indies,213,5,209,5,home,"Apr 4, 1998",Day,England tour of West Indies,England,bat first,West Indies
+India,Zimbabwe,India,274,5,261,5,home,"Apr 5, 1998",Day,Pepsi Triangular Series,Zimbabwe,field first,India
+South Africa,Sri Lanka,South Africa,266,8,209,8,home,"Apr 5, 1998",Day,Standard Bank International One-Day Series,South Africa,bat first,South Africa
+England,West Indies,West Indies,150,6,149,6,home,"Apr 5, 1998",Day,England tour of West Indies,England,bat first,West Indies
+Australia,India,India,223,4,222,4,home,"Apr 7, 1998",Day,Pepsi Triangular Series,Australia,bat first,India
+Sri Lanka,Pakistan,Pakistan,300,6,295,6,away,"Apr 7, 1998",Day,Standard Bank International One-Day Series,Sri Lanka,bat first,South Africa
+West Indies,England,West Indies,302,5,245,5,home,"Apr 8, 1998",Day,England tour of West Indies,West Indies,bat first,West Indies
+India,Zimbabwe,India,301,3,269,3,home,"Apr 9, 1998",Day,Pepsi Triangular Series,Zimbabwe,field first,India
+Pakistan,Sri Lanka,Pakistan,249,10,139,10,away,"Apr 9, 1998",Day and night,Standard Bank International One-Day Series,Pakistan,bat first,South Africa
+Australia,Zimbabwe,Australia,294,3,278,3,away,"Apr 11, 1998",Day,Pepsi Triangular Series,Zimbabwe,field first,India
+Pakistan,South Africa,South Africa,254,7,250,7,home,"Apr 11, 1998",Day,Standard Bank International One-Day Series,South Africa,field first,South Africa
+South Africa,Sri Lanka,Sri Lanka,232,4,231,4,away,"Apr 13, 1998",Day,Standard Bank International One-Day Series,South Africa,bat first,South Africa
+India,Australia,Australia,231,6,227,6,away,"Apr 14, 1998",Day,Pepsi Triangular Series,India,bat first,India
+Sri Lanka,Pakistan,Sri Lanka,288,10,173,10,away,"Apr 15, 1998",Day,Standard Bank International One-Day Series,Pakistan,field first,South Africa
+Pakistan,South Africa,South Africa,149,3,145,3,home,"Apr 17, 1998",Day,Standard Bank International One-Day Series,Pakistan,bat first,South Africa
+India,New Zealand,India,220,9,205,9,away,"Apr 17, 1998",Day and night,Coca-Cola Cup,India,bat first,United Arab Emirates
+New Zealand,Australia,Australia,160,4,159,4,away,"Apr 18, 1998",Day and night,Coca-Cola Cup,New Zealand,bat first,United Arab Emirates
+Sri Lanka,South Africa,South Africa,106,5,105,5,home,"Apr 19, 1998",Day,Standard Bank International One-Day Series,South Africa,field first,South Africa
+Australia,India,Australia,264,9,206,9,away,"Apr 19, 1998",Day and night,Coca-Cola Cup,Australia,bat first,United Arab Emirates
+India,New Zealand,New Zealand,183,6,181,6,away,"Apr 20, 1998",Day and night,Coca-Cola Cup,India,bat first,United Arab Emirates
+New Zealand,Australia,Australia,261,5,259,5,away,"Apr 21, 1998",Day and night,Coca-Cola Cup,New Zealand,bat first,United Arab Emirates
+Australia,India,Australia,284,7,250,7,away,"Apr 22, 1998",Day and night,Coca-Cola Cup,Australia,bat first,United Arab Emirates
+Pakistan,South Africa,South Africa,115,1,114,1,home,"Apr 23, 1998",Day,Standard Bank International One-Day Series,South Africa,field first,South Africa
+Australia,India,India,275,4,272,4,away,"Apr 24, 1998",Day and night,Coca-Cola Cup,India,field first,United Arab Emirates
+Bangladesh,India,India,185,5,184,5,home,"May 14, 1998",Day and night,Coca-Cola Triangular Series,India,field first,India
+Kenya,Bangladesh,Bangladesh,237,4,236,4,away,"May 17, 1998",Day and night,Coca-Cola Triangular Series,Kenya,bat first,India
+Kenya,India,India,224,6,223,6,home,"May 20, 1998",Day and night,Coca-Cola Triangular Series,India,field first,India
+England,South Africa,South Africa,224,7,223,7,away,"May 21, 1998",Day,South Africa tour of England,South Africa,field first,England
+Kenya,Bangladesh,Kenya,226,8,198,8,away,"May 23, 1998",Day and night,Coca-Cola Triangular Series,Kenya,bat first,India
+South Africa,England,South Africa,226,9,194,9,away,"May 23, 1998",Day,South Africa tour of England,England,field first,England
+South Africa,England,England,206,3,205,3,home,"May 24, 1998",Day,South Africa tour of England,South Africa,bat first,England
+Bangladesh,India,India,116,5,115,5,home,"May 25, 1998",Day and night,Coca-Cola Triangular Series,Bangladesh,bat first,India
+Kenya,India,Kenya,265,5,196,5,away,"May 28, 1998",Day and night,Coca-Cola Triangular Series,Kenya,bat first,India
+Kenya,India,India,197,1,196,1,home,"May 31, 1998",Day and night,Coca-Cola Triangular Series,Kenya,bat first,India
+Sri Lanka,India,India,246,2,243,2,away,"Jun 19, 1998",Day and night,Singer-Akai Nidahas Trophy,Sri Lanka,bat first,Sri Lanka
+New Zealand,Sri Lanka,Sri Lanka,201,3,200,3,home,"Jun 21, 1998",Day and night,Singer-Akai Nidahas Trophy,New Zealand,bat first,Sri Lanka
+Sri Lanka,India,Sri Lanka,171,8,163,8,home,"Jul 1, 1998",Day,Singer-Akai Nidahas Trophy,India,field first,Sri Lanka
+Sri Lanka,New Zealand,Sri Lanka,293,4,206,4,home,"Jul 5, 1998",Day,Singer-Akai Nidahas Trophy,New Zealand,field first,Sri Lanka
+India,Sri Lanka,India,307,6,301,6,away,"Jul 7, 1998",Day and night,Singer-Akai Nidahas Trophy,India,bat first,Sri Lanka
+Sri Lanka,South Africa,Sri Lanka,258,10,201,10,away,"Aug 14, 1998",Day,Emirates Triangular Tournament,South Africa,field first,England
+England,Sri Lanka,England,247,10,211,10,home,"Aug 16, 1998",Day,Emirates Triangular Tournament,Sri Lanka,field first,England
+South Africa,England,South Africa,244,7,230,7,away,"Aug 18, 1998",Day,Emirates Triangular Tournament,South Africa,bat first,England
+England,Sri Lanka,Sri Lanka,260,5,256,5,away,"Aug 20, 1998",Day,Emirates Triangular Tournament,England,bat first,England
+Pakistan,India,India,193,4,189,4,away,"Sep 12, 1998",Day,Pakistan tour of Canada,India,field first,Canada
+Pakistan,India,Pakistan,246,9,195,9,away,"Sep 13, 1998",Day,Pakistan tour of Canada,India,field first,Canada
+Pakistan,India,Pakistan,257,5,180,5,away,"Sep 16, 1998",Day,Pakistan tour of Canada,India,field first,Canada
+Pakistan,India,Pakistan,316,6,182,6,away,"Sep 19, 1998",Day,Pakistan tour of Canada,India,field first,Canada
+India,Pakistan,Pakistan,258,5,256,5,away,"Sep 20, 1998",Day,Pakistan tour of Canada,India,bat first,Canada
+Zimbabwe,India,India,216,2,213,2,away,"Sep 26, 1998",Day,India tour of Zimbabwe,India,field first,Zimbabwe
+Zimbabwe,India,India,236,2,235,2,away,"Sep 27, 1998",Day,India tour of Zimbabwe,India,field first,Zimbabwe
+Zimbabwe,India,Zimbabwe,259,5,222,5,home,"Sep 30, 1998",Day,India tour of Zimbabwe,India,field first,Zimbabwe
+Zimbabwe,New Zealand,New Zealand,260,5,258,5,away,"Oct 24, 1998",Day and night,Wills International Cup,Zimbabwe,bat first,Bangladesh
+England,South Africa,South Africa,283,4,281,4,away,"Oct 25, 1998",Day and night,Wills International Cup,England,bat first,Bangladesh
+New Zealand,Sri Lanka,Sri Lanka,191,5,188,5,away,"Oct 26, 1998",Day and night,Wills International Cup,Sri Lanka,field first,Bangladesh
+India,Australia,India,307,8,263,8,away,"Oct 28, 1998",Day and night,Wills International Cup,Australia,field first,Bangladesh
+West Indies,Pakistan,West Indies,289,9,259,9,away,"Oct 29, 1998",Day and night,Wills International Cup,West Indies,bat first,Bangladesh
+South Africa,Sri Lanka,South Africa,240,7,132,7,away,"Oct 30, 1998",Day and night,Wills International Cup,Sri Lanka,field first,Bangladesh
+India,West Indies,West Indies,245,4,242,4,away,"Oct 31, 1998",Day and night,Wills International Cup,India,bat first,Bangladesh
+West Indies,South Africa,South Africa,248,6,245,6,away,"Nov 1, 1998",Day and night,Wills International Cup,South Africa,field first,Bangladesh
+Australia,Pakistan,Australia,324,8,238,8,away,"Nov 6, 1998",Day,Australia tour of Pakistan,Pakistan,field first,Pakistan
+Sri Lanka,India,India,248,7,245,7,away,"Nov 6, 1998",Day and night,Coca-Cola Champions Trophy,India,field first,United Arab Emirates
+Sri Lanka,Zimbabwe,Zimbabwe,197,3,196,3,away,"Nov 7, 1998",Day and night,Coca-Cola Champions Trophy,Zimbabwe,field first,United Arab Emirates
+Pakistan,Australia,Australia,220,5,217,5,away,"Nov 8, 1998",Day,Australia tour of Pakistan,Pakistan,bat first,Pakistan
+Zimbabwe,India,India,197,3,196,3,away,"Nov 8, 1998",Day and night,Coca-Cola Champions Trophy,India,field first,United Arab Emirates
+India,Sri Lanka,India,179,10,98,10,away,"Nov 9, 1998",Day and night,Coca-Cola Champions Trophy,Sri Lanka,field first,United Arab Emirates
+Pakistan,Australia,Australia,316,4,315,4,away,"Nov 10, 1998",Day,Australia tour of Pakistan,Pakistan,bat first,Pakistan
+Zimbabwe,Sri Lanka,Zimbabwe,259,7,235,7,away,"Nov 10, 1998",Day and night,Coca-Cola Champions Trophy,Sri Lanka,field first,United Arab Emirates
+Zimbabwe,India,Zimbabwe,205,7,192,7,away,"Nov 11, 1998",Day and night,Coca-Cola Champions Trophy,India,field first,United Arab Emirates
+Zimbabwe,India,India,197,0,196,0,away,"Nov 13, 1998",Day and night,Coca-Cola Champions Trophy,India,field first,United Arab Emirates
+Zimbabwe,Pakistan,Pakistan,241,6,237,6,home,"Nov 20, 1998",Day,Zimbabwe tour of Pakistan,Pakistan,field first,Pakistan
+Pakistan,Zimbabwe,Zimbabwe,212,4,211,4,away,"Nov 22, 1998",Day,Zimbabwe tour of Pakistan,Zimbabwe,field first,Pakistan
+Pakistan,Zimbabwe,Pakistan,302,6,191,6,home,"Nov 24, 1998",Day,Zimbabwe tour of Pakistan,Zimbabwe,field first,Pakistan
+India,New Zealand,New Zealand,200,5,257,5,home,"Jan 9, 1999",Day and night,India tour of New Zealand,India,bat first,New Zealand
+England,Australia,England,178,8,145,8,away,"Jan 10, 1999",Day and night,Carlton & United Series,England,bat first,Australia
+Sri Lanka,England,England,208,6,207,6,away,"Jan 11, 1999",Day and night,Carlton & United Series,Sri Lanka,bat first,Australia
+New Zealand,India,India,214,8,213,8,away,"Jan 12, 1999",Day and night,India tour of New Zealand,India,field first,New Zealand
+Sri Lanka,Australia,Australia,260,2,259,2,home,"Jan 13, 1999",Day and night,Carlton & United Series,Sri Lanka,bat first,Australia
+England,Australia,Australia,182,1,178,1,home,"Jan 15, 1999",Day and night,Carlton & United Series,England,bat first,Australia
+New Zealand,India,India,208,5,207,5,away,"Jan 16, 1999",Day,India tour of New Zealand,India,field first,New Zealand
+England,Australia,England,282,4,275,4,away,"Jan 17, 1999",Day and night,Carlton & United Series,England,bat first,Australia
+New Zealand,India,New Zealand,300,8,230,8,home,"Jan 19, 1999",Day and night,India tour of New Zealand,India,field first,New Zealand
+Sri Lanka,England,England,189,3,186,3,away,"Jan 19, 1999",Day and night,Carlton & United Series,Sri Lanka,bat first,Australia
+Australia,Sri Lanka,Sri Lanka,211,7,210,7,away,"Jan 21, 1999",Day,Carlton & United Series,Sri Lanka,field first,Australia
+West Indies,South Africa,South Africa,160,8,154,8,home,"Jan 22, 1999",Day and night,West Indies tour of South Africa,South Africa,field first,South Africa
+England,Sri Lanka,Sri Lanka,303,9,302,9,away,"Jan 23, 1999",Day and night,Carlton & United Series,Sri Lanka,field first,Australia
+Australia,Sri Lanka,Australia,270,10,190,10,home,"Jan 24, 1999",Day and night,Carlton & United Series,Sri Lanka,field first,Australia
+West Indies,South Africa,West Indies,292,9,249,9,away,"Jan 24, 1999",Day,West Indies tour of South Africa,South Africa,field first,South Africa
+Australia,England,Australia,239,8,223,8,home,"Jan 26, 1999",Day and night,Carlton & United Series,Australia,bat first,Australia
+South Africa,West Indies,South Africa,274,9,219,9,home,"Jan 27, 1999",Day and night,West Indies tour of South Africa,South Africa,bat first,South Africa
+England,Sri Lanka,England,227,7,99,7,away,"Jan 29, 1999",Day and night,Carlton & United Series,Sri Lanka,field first,Australia
+South Africa,West Indies,South Africa,278,6,179,6,home,"Jan 30, 1999",Day,West Indies tour of South Africa,West Indies,field first,South Africa
+Australia,Sri Lanka,Australia,274,7,229,7,home,"Jan 31, 1999",Day,Carlton & United Series,Sri Lanka,field first,Australia
+South Africa,West Indies,South Africa,221,8,132,8,home,"Feb 2, 1999",Day and night,West Indies tour of South Africa,South Africa,bat first,South Africa
+Sri Lanka,England,Sri Lanka,181,7,170,7,away,"Feb 3, 1999",Day and night,Carlton & United Series,England,field first,Australia
+England,Australia,Australia,211,6,210,6,home,"Feb 5, 1999",Day and night,Carlton & United Series,England,bat first,Australia
+South Africa,West Indies,South Africa,273,10,159,10,home,"Feb 5, 1999",Day,West Indies tour of South Africa,South Africa,bat first,South Africa
+Australia,Sri Lanka,Australia,310,8,267,8,home,"Feb 7, 1999",Day,Carlton & United Series,Australia,bat first,Australia
+South Africa,West Indies,South Africa,226,8,176,8,home,"Feb 7, 1999",Day,West Indies tour of South Africa,South Africa,bat first,South Africa
+Australia,England,Australia,232,8,222,8,home,"Feb 10, 1999",Day and night,Carlton & United Series,Australia,bat first,Australia
+Australia,England,Australia,272,5,110,5,home,"Feb 13, 1999",Day and night,Carlton & United Series,Australia,bat first,Australia
+South Africa,New Zealand,New Zealand,215,7,211,7,home,"Feb 14, 1999",Day and night,South Africa tour of New Zealand,New Zealand,field first,New Zealand
+New Zealand,South Africa,South Africa,224,3,220,3,away,"Feb 17, 1999",Day and night,South Africa tour of New Zealand,New Zealand,bat first,New Zealand
+South Africa,New Zealand,New Zealand,215,3,212,3,home,"Feb 20, 1999",Day,South Africa tour of New Zealand,New Zealand,field first,New Zealand
+Pakistan,Bangladesh,Pakistan,293,7,141,7,away,"Mar 16, 1999",Day and night,Pakistan tour of Bangladesh,Bangladesh,field first,Bangladesh
+Pakistan,Sri Lanka,Pakistan,246,9,237,9,away,"Mar 19, 1999",Day,Pepsi Cup,Pakistan,bat first,India
+Zimbabwe,Kenya,Zimbabwe,272,6,139,6,away,"Mar 19, 1999",Day and night,Meril International Cricket Tournament,Zimbabwe,bat first,Bangladesh
+Bangladesh,Kenya,Kenya,215,2,213,2,away,"Mar 20, 1999",Day and night,Meril International Cricket Tournament,Bangladesh,bat first,Bangladesh
+Zimbabwe,Bangladesh,Zimbabwe,310,6,184,6,away,"Mar 21, 1999",Day and night,Meril International Cricket Tournament,Zimbabwe,bat first,Bangladesh
+India,Sri Lanka,India,287,4,207,4,home,"Mar 22, 1999",Day,Pepsi Cup,Sri Lanka,field first,India
+Zimbabwe,Kenya,Zimbabwe,280,6,216,6,away,"Mar 23, 1999",Day and night,Meril International Cricket Tournament,Zimbabwe,bat first,Bangladesh
+Pakistan,India,Pakistan,278,9,135,9,away,"Mar 24, 1999",Day,Pepsi Cup,Pakistan,bat first,India
+Kenya,Bangladesh,Kenya,231,10,158,10,away,"Mar 24, 1999",Day and night,Meril International Cricket Tournament,Kenya,bat first,Bangladesh
+Bangladesh,Zimbabwe,Zimbabwe,261,7,257,7,away,"Mar 25, 1999",Day and night,Meril International Cricket Tournament,Bangladesh,bat first,Bangladesh
+New Zealand,South Africa,South Africa,194,8,191,8,away,"Mar 26, 1999",Day,South Africa tour of New Zealand,South Africa,field first,New Zealand
+South Africa,New Zealand,South Africa,290,5,147,5,away,"Mar 27, 1999",Day and night,South Africa tour of New Zealand,South Africa,bat first,New Zealand
+Sri Lanka,Pakistan,Sri Lanka,253,8,241,8,away,"Mar 27, 1999",Day,Pepsi Cup,Sri Lanka,bat first,India
+Zimbabwe,Kenya,Zimbabwe,325,6,123,6,away,"Mar 27, 1999",Day and night,Meril International Cricket Tournament,Zimbabwe,bat first,Bangladesh
+India,Sri Lanka,India,286,6,235,6,home,"Mar 30, 1999",Day,Pepsi Cup,Sri Lanka,field first,India
+India,Pakistan,Pakistan,197,3,196,3,away,"Apr 1, 1999",Day and night,Pepsi Cup,India,bat first,India
+Pakistan,India,Pakistan,291,8,168,8,away,"Apr 4, 1999",Day and night,Pepsi Cup,Pakistan,bat first,India
+Pakistan,England,Pakistan,323,5,233,5,away,"Apr 7, 1999",Day and night,Coca-Cola Cup,Pakistan,bat first,United Arab Emirates
+Pakistan,India,Pakistan,279,8,163,8,away,"Apr 8, 1999",Day and night,Coca-Cola Cup,Pakistan,bat first,United Arab Emirates
+India,England,India,222,5,202,5,away,"Apr 9, 1999",Day and night,Coca-Cola Cup,India,bat first,United Arab Emirates
+India,England,India,239,6,230,6,away,"Apr 11, 1999",Day and night,Coca-Cola Cup,India,bat first,United Arab Emirates
+West Indies,Australia,West Indies,209,10,165,10,home,"Apr 11, 1999",Day,Australia tour of West Indies,Australia,field first,West Indies
+England,Pakistan,England,206,10,144,10,away,"Apr 12, 1999",Day and night,Coca-Cola Cup,England,bat first,United Arab Emirates
+Pakistan,India,India,206,4,205,4,away,"Apr 13, 1999",Day and night,Coca-Cola Cup,Pakistan,bat first,United Arab Emirates
+Australia,West Indies,Australia,288,4,242,4,away,"Apr 14, 1999",Day,Australia tour of West Indies,Australia,bat first,Grenada
+India,Pakistan,Pakistan,129,2,125,2,away,"Apr 16, 1999",Day and night,Coca-Cola Cup,India,bat first,United Arab Emirates
+Australia,West Indies,West Indies,244,5,242,5,home,"Apr 17, 1999",Day,Australia tour of West Indies,Australia,bat first,West Indies
+Australia,West Indies,Australia,189,9,169,9,away,"Apr 18, 1999",Day,Australia tour of West Indies,Australia,bat first,West Indies
+West Indies,Australia,Australia,253,6,249,6,away,"Apr 24, 1999",Day,Australia tour of West Indies,West Indies,bat first,West Indies
+Australia,West Indies,West Indies,197,2,252,2,home,"Apr 25, 1999",Day,Australia tour of West Indies,Australia,bat first,West Indies
+Sri Lanka,England,England,207,2,204,2,home,"May 14, 1999",Day,ICC World Cup,England,field first,England
+India,South Africa,South Africa,254,6,253,6,away,"May 15, 1999",Day,ICC World Cup,India,bat first,England
+Kenya,Zimbabwe,Zimbabwe,231,5,229,5,away,"May 15, 1999",Day,ICC World Cup,Zimbabwe,field first,England
+Scotland,Australia,Australia,182,4,181,4,away,"May 16, 1999",Day,ICC World Cup,Australia,field first,England
+Pakistan,West Indies,Pakistan,229,8,202,8,away,"May 16, 1999",Day,ICC World Cup,Pakistan,bat first,England
+Bangladesh,New Zealand,New Zealand,117,4,116,4,away,"May 17, 1999",Day,ICC World Cup,New Zealand,field first,England
+Kenya,England,England,204,1,203,1,home,"May 18, 1999",Day,ICC World Cup,England,field first,England
+Zimbabwe,India,Zimbabwe,252,9,249,9,away,"May 19, 1999",Day,ICC World Cup,India,field first,England
+South Africa,Sri Lanka,South Africa,199,9,110,9,away,"May 19, 1999",Day,ICC World Cup,Sri Lanka,field first,England
+Australia,New Zealand,New Zealand,214,5,213,5,away,"May 20, 1999",Day,ICC World Cup,Australia,bat first,Wales
+Pakistan,Scotland,Pakistan,261,6,167,6,away,"May 20, 1999",Day,ICC World Cup,Scotland,field first,England
+Bangladesh,West Indies,West Indies,183,3,182,3,away,"May 21, 1999",Day,ICC World Cup,Bangladesh,bat first,Ireland
+South Africa,England,South Africa,225,7,103,7,away,"May 22, 1999",Day,ICC World Cup,England,field first,England
+Zimbabwe,Sri Lanka,Sri Lanka,198,6,197,6,away,"May 22, 1999",Day,ICC World Cup,Sri Lanka,field first,England
+India,Kenya,India,329,2,235,2,away,"May 23, 1999",Day,ICC World Cup,Kenya,field first,England
+Pakistan,Australia,Pakistan,275,8,265,8,away,"May 23, 1999",Day,ICC World Cup,Australia,field first,England
+Bangladesh,Scotland,Bangladesh,185,9,163,9,away,"May 24, 1999",Day,ICC World Cup,Scotland,field first,Midlothian
+New Zealand,West Indies,West Indies,158,3,156,3,away,"May 24, 1999",Day,ICC World Cup,West Indies,field first,England
+Zimbabwe,England,England,168,3,167,3,home,"May 25, 1999",Day,ICC World Cup,England,field first,England
+Kenya,South Africa,South Africa,153,3,152,3,away,"May 26, 1999",Day,ICC World Cup,South Africa,field first,Netherlands
+India,Sri Lanka,India,373,6,216,6,away,"May 26, 1999",Day,ICC World Cup,Sri Lanka,field first,England
+Bangladesh,Australia,Australia,181,3,178,3,away,"May 27, 1999",Day,ICC World Cup,Australia,field first,England
+Scotland,West Indies,West Indies,70,2,68,2,away,"May 27, 1999",Day,ICC World Cup,Scotland,bat first,England
+Pakistan,New Zealand,Pakistan,269,8,207,8,away,"May 28, 1999",Day,ICC World Cup,New Zealand,field first,England
+India,England,India,232,8,169,8,away,"May 29-30, 1999",Day,ICC World Cup,England,field first,England
+Zimbabwe,South Africa,Zimbabwe,233,6,185,6,away,"May 29, 1999",Day,ICC World Cup,Zimbabwe,bat first,England
+Sri Lanka,Kenya,Sri Lanka,275,8,230,8,away,"May 30, 1999",Day,ICC World Cup,Kenya,field first,England
+West Indies,Australia,Australia,111,4,110,4,away,"May 30, 1999",Day,ICC World Cup,Australia,field first,England
+Bangladesh,Pakistan,Bangladesh,223,9,161,9,away,"May 31, 1999",Day,ICC World Cup,Pakistan,field first,England
+Scotland,New Zealand,New Zealand,123,4,121,4,away,"May 31, 1999",Day,ICC World Cup,New Zealand,field first,Midlothian
+Australia,India,Australia,282,6,205,6,away,"Jun 4, 1999",Day,ICC World Cup,India,field first,England
+Pakistan,South Africa,South Africa,221,7,220,7,away,"Jun 5, 1999",Day,ICC World Cup,Pakistan,bat first,England
+India,Pakistan,India,227,6,180,6,away,"Jun 8, 1999",Day,ICC World Cup,India,bat first,England
+Australia,Zimbabwe,Australia,303,4,259,4,away,"Jun 9, 1999",Day,ICC World Cup,Zimbabwe,field first,England
+South Africa,New Zealand,South Africa,287,5,213,5,away,"Jun 10, 1999",Day,ICC World Cup,South Africa,bat first,England
+Pakistan,Zimbabwe,Pakistan,271,9,123,9,away,"Jun 11, 1999",Day,ICC World Cup,Pakistan,bat first,England
+India,New Zealand,New Zealand,253,5,251,5,away,"Jun 12, 1999",Day,ICC World Cup,India,bat first,England
+South Africa,Australia,Australia,272,5,271,5,away,"Jun 13, 1999",Day,ICC World Cup,South Africa,bat first,England
+New Zealand,Pakistan,Pakistan,242,1,241,1,away,"Jun 16, 1999",Day,ICC World Cup,New Zealand,bat first,England
+Pakistan,Australia,Australia,133,2,132,2,away,"Jun 20, 1999",Day,ICC World Cup,Pakistan,bat first,England
+Australia,Sri Lanka,Australia,205,9,160,9,away,"Aug 22, 1999",Day,Aiwa Cup,Sri Lanka,field first,Sri Lanka
+India,Australia,Australia,159,2,151,2,away,"Aug 23, 1999",Day,Aiwa Cup,India,bat first,Sri Lanka
+India,Sri Lanka,Sri Lanka,206,3,205,3,home,"Aug 25, 1999",Day and night,Aiwa Cup,India,bat first,Sri Lanka
+Australia,Sri Lanka,Australia,241,9,214,9,away,"Aug 26, 1999",Day and night,Aiwa Cup,Australia,bat first,Sri Lanka
+Australia,India,Australia,252,8,211,8,away,"Aug 28, 1999",Day,Aiwa Cup,India,field first,Sri Lanka
+India,Sri Lanka,India,296,4,247,4,away,"Aug 29, 1999",Day,Aiwa Cup,Sri Lanka,field first,Sri Lanka
+Australia,Sri Lanka,Sri Lanka,208,2,202,2,home,"Aug 31, 1999",Day and night,Aiwa Cup,Australia,bat first,Sri Lanka
+Zimbabwe,West Indies,West Indies,247,4,244,4,away,"Sep 2, 1999",Day,Coca-Cola Singapore Challenge,Zimbabwe,bat first,Singapore
+India,Zimbabwe,India,245,6,130,6,away,"Sep 4, 1999",Day,Coca-Cola Singapore Challenge,Zimbabwe,field first,Singapore
+West Indies,India,West Indies,196,7,154,7,away,"Sep 5, 1999",Day,Coca-Cola Singapore Challenge,West Indies,bat first,Singapore
+India,West Indies,West Indies,255,6,254,6,away,"Sep 8, 1999",Day,Coca-Cola Singapore Challenge,West Indies,field first,Singapore
+West Indies,India,India,165,2,163,2,away,"Sep 11, 1999",Day,West Indies tour of Canada,India,field first,Canada
+West Indies,India,West Indies,190,6,120,6,away,"Sep 12, 1999",Day,West Indies tour of Canada,West Indies,bat first,Canada
+India,West Indies,India,225,7,137,7,away,"Sep 14, 1999",Day,West Indies tour of Canada,West Indies,field first,Canada
+Pakistan,West Indies,Pakistan,230,6,215,6,away,"Sep 16, 1999",Day,Pakistan tour of Canada,Pakistan,bat first,Canada
+Pakistan,West Indies,Pakistan,222,5,180,5,away,"Sep 18, 1999",Day,Pakistan tour of Canada,Pakistan,bat first,Canada
+West Indies,Pakistan,Pakistan,162,3,161,3,away,"Sep 19, 1999",Day,Pakistan tour of Canada,West Indies,bat first,Canada
+Kenya,Zimbabwe,Zimbabwe,200,7,199,7,away,"Sep 25, 1999",Day,LG Cup,Zimbabwe,field first,Kenya
+South Africa,India,India,120,2,117,2,away,"Sep 26, 1999",Day,LG Cup,South Africa,bat first,Kenya
+Zimbabwe,South Africa,South Africa,217,1,216,1,away,"Sep 28, 1999",Day,LG Cup,South Africa,field first,Kenya
+India,Kenya,India,220,7,162,7,away,"Sep 29, 1999",Day,LG Cup,Kenya,field first,Kenya
+South Africa,Kenya,South Africa,220,7,196,7,away,"Sep 30, 1999",Day,LG Cup,Kenya,field first,Kenya
+India,Zimbabwe,India,277,6,170,6,away,"Oct 1, 1999",Day,LG Cup,Zimbabwe,field first,Kenya
+South Africa,India,South Africa,235,9,209,9,away,"Oct 3, 1999",Day,LG Cup,India,field first,Kenya
+West Indies,Bangladesh,West Indies,292,6,219,6,away,"Oct 8, 1999",Day and night,West Indies tour of Bangladesh,West Indies,bat first,Bangladesh
+West Indies,Bangladesh,West Indies,314,6,205,6,away,"Oct 9, 1999",Day and night,West Indies tour of Bangladesh,West Indies,bat first,Bangladesh
+Sri Lanka,West Indies,West Indies,181,7,178,7,away,"Oct 13, 1999",Day and night,Coca-Cola Champions Trophy,Sri Lanka,bat first,United Arab Emirates
+Pakistan,West Indies,Pakistan,260,5,130,5,away,"Oct 14, 1999",Day and night,Coca-Cola Champions Trophy,Pakistan,bat first,United Arab Emirates
+West Indies,Sri Lanka,Sri Lanka,146,1,145,1,away,"Oct 17, 1999",Day and night,Coca-Cola Champions Trophy,West Indies,bat first,United Arab Emirates
+Pakistan,Sri Lanka,Pakistan,239,8,121,8,away,"Oct 18, 1999",Day and night,Coca-Cola Champions Trophy,Pakistan,bat first,United Arab Emirates
+Pakistan,West Indies,Pakistan,255,5,117,5,away,"Oct 19, 1999",Day and night,Coca-Cola Champions Trophy,Pakistan,bat first,United Arab Emirates
+Australia,Zimbabwe,Australia,303,6,220,6,away,"Oct 21, 1999",Day,Australia tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Pakistan,Sri Lanka,Pakistan,211,9,123,9,away,"Oct 22, 1999",Day and night,Coca-Cola Champions Trophy,Pakistan,bat first,United Arab Emirates
+Zimbabwe,Australia,Australia,117,1,116,1,away,"Oct 23, 1999",Day,Australia tour of Zimbabwe,Australia,field first,Zimbabwe
+Zimbabwe,Australia,Australia,201,1,200,1,away,"Oct 24, 1999",Day,Australia tour of Zimbabwe,Australia,field first,Zimbabwe
+New Zealand,India,New Zealand,349,9,306,9,away,"Nov 5, 1999",Day,New Zealand tour of India,New Zealand,bat first,India
+India,New Zealand,India,376,2,202,2,home,"Nov 8, 1999",Day,New Zealand tour of India,India,bat first,India
+India,New Zealand,India,261,5,247,5,home,"Nov 11, 1999",Day,New Zealand tour of India,India,bat first,India
+New Zealand,India,New Zealand,236,9,188,9,away,"Nov 14, 1999",Day,New Zealand tour of India,India,field first,India
+New Zealand,India,India,181,3,179,3,home,"Nov 17, 1999",Day,New Zealand tour of India,New Zealand,bat first,India
+Sri Lanka,Zimbabwe,Sri Lanka,213,10,200,10,away,"Dec 12, 1999",Day,Sri Lanka tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Sri Lanka,Zimbabwe,Sri Lanka,248,7,150,7,away,"Dec 15, 1999",Day,Sri Lanka tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Zimbabwe,Sri Lanka,Sri Lanka,262,4,260,4,away,"Dec 18, 1999",Day,Sri Lanka tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Sri Lanka,Zimbabwe,Zimbabwe,206,4,202,4,home,"Dec 19, 1999",Day,Sri Lanka tour of Zimbabwe,Sri Lanka,bat first,Zimbabwe
+West Indies,New Zealand,New Zealand,250,7,268,7,home,"Jan 2, 2000",Day,West Indies tour of New Zealand,West Indies,bat first,New Zealand
+West Indies,New Zealand,New Zealand,194,3,192,3,home,"Jan 4, 2000",Day and night,West Indies tour of New Zealand,New Zealand,field first,New Zealand
+West Indies,New Zealand,New Zealand,160,6,159,6,home,"Jan 6, 2000",Day and night,West Indies tour of New Zealand,West Indies,bat first,New Zealand
+West Indies,New Zealand,New Zealand,172,2,171,2,home,"Jan 8-9, 2000",Day,West Indies tour of New Zealand,New Zealand,field first,New Zealand
+Pakistan,Australia,Pakistan,184,8,139,8,away,"Jan 9, 2000",Day and night,Carlton & United Series,Pakistan,bat first,Australia
+India,Pakistan,Pakistan,196,8,195,8,away,"Jan 10, 2000",Day and night,Carlton & United Series,India,bat first,Australia
+New Zealand,West Indies,New Zealand,302,6,282,6,home,"Jan 11, 2000",Day and night,West Indies tour of New Zealand,New Zealand,bat first,New Zealand
+Australia,India,Australia,269,7,241,7,home,"Jan 12, 2000",Day and night,Carlton & United Series,Australia,bat first,Australia
+India,Australia,Australia,101,5,100,5,home,"Jan 14, 2000",Day and night,Carlton & United Series,India,bat first,Australia
+Pakistan,Australia,Australia,177,4,176,4,home,"Jan 16, 2000",Day,Carlton & United Series,Australia,field first,Australia
+Australia,Pakistan,Australia,286,10,205,10,home,"Jan 19, 2000",Day and night,Carlton & United Series,Australia,bat first,Australia
+Pakistan,India,Pakistan,262,7,230,7,away,"Jan 21, 2000",Day,Carlton & United Series,India,field first,Australia
+Zimbabwe,South Africa,South Africa,229,4,226,4,home,"Jan 21, 2000",Day and night,Standard Bank Triangular Tournament,Zimbabwe,bat first,South Africa
+Australia,Pakistan,Australia,260,9,245,9,home,"Jan 23, 2000",Day and night,Carlton & United Series,Australia,bat first,Australia
+South Africa,England,England,185,1,184,1,away,"Jan 23, 2000",Day,Standard Bank Triangular Tournament,South Africa,bat first,South Africa
+India,Pakistan,India,267,6,219,6,away,"Jan 25, 2000",Day and night,Carlton & United Series,India,bat first,Australia
+Australia,India,Australia,329,5,177,5,home,"Jan 26, 2000",Day and night,Carlton & United Series,Australia,bat first,Australia
+South Africa,England,South Africa,204,7,203,7,home,"Jan 26, 2000",Day and night,Standard Bank Triangular Tournament,South Africa,bat first,South Africa
+Pakistan,India,Pakistan,261,8,157,8,away,"Jan 28, 2000",Day and night,Carlton & United Series,Pakistan,bat first,Australia
+Zimbabwe,England,Zimbabwe,211,7,107,7,away,"Jan 28, 2000",Day and night,Standard Bank Triangular Tournament,Zimbabwe,bat first,South Africa
+India,Australia,Australia,230,6,226,6,home,"Jan 30, 2000",Day,Carlton & United Series,India,bat first,Australia
+Zimbabwe,England,England,162,2,161,2,away,"Jan 30, 2000",Day,Standard Bank Triangular Tournament,Zimbabwe,bat first,South Africa
+Pakistan,Australia,Australia,155,4,154,4,home,"Feb 2, 2000",Day and night,Carlton & United Series,Pakistan,bat first,Australia
+South Africa,Zimbabwe,Zimbabwe,223,8,222,8,away,"Feb 2, 2000",Day and night,Standard Bank Triangular Tournament,South Africa,bat first,South Africa
+Australia,Pakistan,Australia,337,7,185,7,home,"Feb 4, 2000",Day and night,Carlton & United Series,Australia,bat first,Australia
+England,South Africa,South Africa,233,8,231,8,home,"Feb 4, 2000",Day and night,Standard Bank Triangular Tournament,South Africa,field first,South Africa
+South Africa,Zimbabwe,South Africa,204,7,151,7,home,"Feb 6, 2000",Day,Standard Bank Triangular Tournament,South Africa,bat first,South Africa
+Sri Lanka,Pakistan,Sri Lanka,274,8,245,8,away,"Feb 13, 2000",Day,Sri Lanka tour of Pakistan,Pakistan,field first,Pakistan
+South Africa,England,South Africa,149,10,111,10,home,"Feb 13, 2000",Day and night,Standard Bank Triangular Tournament,England,field first,South Africa
+Sri Lanka,Pakistan,Sri Lanka,263,6,229,6,away,"Feb 16, 2000",Day,Sri Lanka tour of Pakistan,Pakistan,field first,Pakistan
+Zimbabwe,England,England,199,5,194,5,away,"Feb 16, 2000",Day,England tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Zimbabwe,England,England,134,9,131,9,away,"Feb 18, 2000",Day,England tour of Zimbabwe,England,field first,Zimbabwe
+New Zealand,Australia,Australia,123,5,122,5,away,"Feb 19, 2000",Day and night,Australia tour of New Zealand,New Zealand,bat first,New Zealand
+Sri Lanka,Pakistan,Sri Lanka,241,9,137,9,away,"Feb 19, 2000",Day,Sri Lanka tour of Pakistan,Pakistan,field first,Pakistan
+England,Zimbabwe,England,248,7,163,7,away,"Feb 20, 2000",Day,England tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Australia,New Zealand,Australia,310,4,260,4,away,"Feb 23, 2000",Day and night,Australia tour of New Zealand,New Zealand,field first,New Zealand
+Australia,New Zealand,Australia,349,6,301,6,away,"Feb 26, 2000",Day and night,Australia tour of New Zealand,New Zealand,field first,New Zealand
+New Zealand,Australia,Australia,245,5,243,5,away,"Mar 1, 2000",Day and night,Australia tour of New Zealand,Australia,field first,New Zealand
+Australia,New Zealand,New Zealand,194,3,191,3,home,"Mar 3, 2000",Day and night,Australia tour of New Zealand,Australia,bat first,New Zealand
+South Africa,India,India,302,7,301,7,home,"Mar 9, 2000",Day,South Africa tour of India,South Africa,bat first,India
+South Africa,India,India,203,4,199,4,home,"Mar 12, 2000",Day,South Africa tour of India,South Africa,bat first,India
+India,South Africa,South Africa,251,8,248,8,away,"Mar 15, 2000",Day,South Africa tour of India,South Africa,field first,India
+South Africa,India,India,283,6,282,6,home,"Mar 17, 2000",Day,South Africa tour of India,South Africa,bat first,India
+South Africa,India,South Africa,320,7,310,7,away,"Mar 19, 2000",Day,South Africa tour of India,India,field first,India
+India,South Africa,South Africa,168,0,164,0,away,"Mar 22, 2000",Day and night,Coca-Cola Cup,India,bat first,United Arab Emirates
+Pakistan,India,India,149,5,146,5,away,"Mar 23, 2000",Day and night,Coca-Cola Cup,Pakistan,bat first,United Arab Emirates
+Pakistan,South Africa,South Africa,199,7,196,7,away,"Mar 24, 2000",Day and night,Coca-Cola Cup,Pakistan,bat first,United Arab Emirates
+Pakistan,India,Pakistan,272,3,174,3,away,"Mar 26, 2000",Day and night,Coca-Cola Cup,Pakistan,bat first,United Arab Emirates
+India,South Africa,South Africa,167,4,164,4,away,"Mar 27, 2000",Day and night,Coca-Cola Cup,India,bat first,United Arab Emirates
+Pakistan,South Africa,Pakistan,168,10,101,10,away,"Mar 28, 2000",Day and night,Coca-Cola Cup,Pakistan,bat first,United Arab Emirates
+Pakistan,South Africa,Pakistan,263,6,247,6,away,"Mar 31, 2000",Day and night,Coca-Cola Cup,Pakistan,bat first,United Arab Emirates
+West Indies,Zimbabwe,West Indies,237,9,150,9,home,"Apr 1, 2000",Day,Cable & Wireless One Day International Series,Zimbabwe,field first,West Indies
+West Indies,Zimbabwe,West Indies,280,3,239,3,home,"Apr 2, 2000",Day,Cable & Wireless One Day International Series,West Indies,bat first,West Indies
+Zimbabwe,Pakistan,Pakistan,200,5,199,5,away,"Apr 5, 2000",Day,Cable & Wireless One Day International Series,Zimbabwe,bat first,West Indies
+Australia,South Africa,South Africa,241,4,240,4,home,"Apr 12, 2000",Day and night,Australia tour of South Africa,South Africa,field first,South Africa
+West Indies,Pakistan,West Indies,213,7,117,7,home,"Apr 12, 2000",Day,Cable & Wireless One Day International Series,West Indies,bat first,West Indies
+South Africa,Australia,Australia,145,5,144,5,away,"Apr 14, 2000",Day and night,Australia tour of South Africa,Australia,field first,South Africa
+Zimbabwe,Pakistan,Pakistan,205,4,204,4,away,"Apr 15, 2000",Day,Cable & Wireless One Day International Series,Zimbabwe,bat first,Grenada
+Australia,South Africa,South Africa,209,6,205,6,home,"Apr 16, 2000",Day,Australia tour of South Africa,South Africa,field first,South Africa
+West Indies,Pakistan,West Indies,248,6,231,6,away,"Apr 16, 2000",Day,Cable & Wireless One Day International Series,West Indies,bat first,Grenada
+Pakistan,West Indies,Pakistan,197,8,180,8,away,"Apr 19, 2000",Day,Cable & Wireless One Day International Series,Pakistan,bat first,West Indies
+West Indies,Pakistan,West Indies,208,8,148,8,home,"Apr 22, 2000",Day,Cable & Wireless One Day International Series,West Indies,bat first,West Indies
+West Indies,Pakistan,Pakistan,116,6,114,6,away,"Apr 23, 2000",Day,Cable & Wireless One Day International Series,West Indies,bat first,West Indies
+Bangladesh,Sri Lanka,Sri Lanka,178,1,175,1,away,"May 29, 2000",Day and night,Asia Cup,Sri Lanka,field first,Bangladesh
+Bangladesh,India,India,252,2,249,2,away,"May 30-31, 2000",Day and night,Asia Cup,Bangladesh,bat first,Bangladesh
+Sri Lanka,India,Sri Lanka,276,8,205,8,away,"Jun 1, 2000",Day and night,Asia Cup,Sri Lanka,bat first,Bangladesh
+Pakistan,Bangladesh,Pakistan,320,3,87,3,away,"Jun 2, 2000",Day and night,Asia Cup,Pakistan,bat first,Bangladesh
+Pakistan,India,Pakistan,295,7,251,7,away,"Jun 3, 2000",Day and night,Asia Cup,Pakistan,bat first,Bangladesh
+Sri Lanka,Pakistan,Pakistan,193,3,192,3,away,"Jun 5, 2000",Day and night,Asia Cup,Sri Lanka,bat first,Bangladesh
+Pakistan,Sri Lanka,Pakistan,277,4,238,4,away,"Jun 7, 2000",Day and night,Asia Cup,Pakistan,bat first,Bangladesh
+Pakistan,Sri Lanka,Sri Lanka,166,5,164,5,home,"Jul 5, 2000",Day,Singer Triangular Series,Sri Lanka,field first,Sri Lanka
+Sri Lanka,South Africa,Sri Lanka,249,7,212,7,home,"Jul 6, 2000",Day,Singer Triangular Series,South Africa,field first,Sri Lanka
+West Indies,Zimbabwe,Zimbabwe,233,4,232,4,away,"Jul 6, 2000",Day and night,NatWest Series,West Indies,bat first,England
+South Africa,Pakistan,South Africa,241,6,223,6,away,"Jul 8, 2000",Day and night,Singer Triangular Series,South Africa,bat first,Sri Lanka
+England,Zimbabwe,Zimbabwe,210,5,207,5,away,"Jul 8, 2000",Day,NatWest Series,England,bat first,England
+Pakistan,Sri Lanka,Sri Lanka,244,4,240,4,home,"Jul 9, 2000",Day and night,Singer Triangular Series,Pakistan,bat first,Sri Lanka
+South Africa,Sri Lanka,Sri Lanka,168,2,167,2,home,"Jul 11, 2000",Day,Singer Triangular Series,Sri Lanka,field first,Sri Lanka
+Zimbabwe,West Indies,Zimbabwe,256,4,186,4,away,"Jul 11, 2000",Day,NatWest Series,West Indies,field first,England
+Pakistan,South Africa,South Africa,156,3,153,3,away,"Jul 12, 2000",Day,Singer Triangular Series,Pakistan,bat first,Sri Lanka
+Zimbabwe,England,England,115,2,114,2,home,"Jul 13, 2000",Day and night,NatWest Series,Zimbabwe,bat first,England
+Sri Lanka,South Africa,Sri Lanka,294,7,264,7,home,"Jul 14, 2000",Day and night,Singer Triangular Series,Sri Lanka,bat first,Sri Lanka
+West Indies,England,England,171,0,169,0,home,"Jul 15, 2000",Day,NatWest Series,England,field first,England
+West Indies,Zimbabwe,Zimbabwe,290,4,287,4,away,"Jul 16, 2000",Day,NatWest Series,West Indies,bat first,England
+England,Zimbabwe,England,262,8,210,8,home,"Jul 18, 2000",Day and night,NatWest Series,England,bat first,England
+West Indies,England,West Indies,195,9,192,9,away,"Jul 20, 2000",Day,NatWest Series,England,field first,England
+Zimbabwe,England,England,170,4,169,4,home,"Jul 22, 2000",Day,NatWest Series,England,field first,England
+Australia,South Africa,Australia,295,5,201,5,home,"Aug 16, 2000",Day and night,South Africa tour of Australia,South Africa,field first,Australia
+South Africa,Australia,South Africa,206,7,198,7,away,"Aug 20, 2000",Day,South Africa tour of Australia,South Africa,bat first,Australia
+Pakistan,New Zealand,Pakistan,191,6,179,6,away,"Aug 20, 2000",Day,Godrej Singapore Challenge,New Zealand,field first,Singapore
+Pakistan,South Africa,Pakistan,227,9,199,9,away,"Aug 23, 2000",Day,Godrej Singapore Challenge,Pakistan,bat first,Singapore
+New Zealand,South Africa,South Africa,159,2,158,2,away,"Aug 25, 2000",Day,Godrej Singapore Challenge,New Zealand,bat first,Singapore
+South Africa,Pakistan,South Africa,197,7,121,7,away,"Aug 27, 2000",Day,Godrej Singapore Challenge,South Africa,bat first,Singapore
+Zimbabwe,New Zealand,New Zealand,184,3,183,3,away,"Sep 27, 2000",Day,New Zealand tour of Zimbabwe,New Zealand,field first,Zimbabwe
+Zimbabwe,New Zealand,Zimbabwe,273,5,252,5,home,"Sep 30, 2000",Day,New Zealand tour of Zimbabwe,New Zealand,field first,Zimbabwe
+New Zealand,Zimbabwe,Zimbabwe,268,4,264,4,home,"Oct 1, 2000",Day,New Zealand tour of Zimbabwe,New Zealand,bat first,Zimbabwe
+Kenya,India,India,209,2,208,2,away,"Oct 3, 2000",Day,ICC KnockOut,India,field first,Kenya
+Sri Lanka,West Indies,Sri Lanka,287,6,179,6,away,"Oct 4, 2000",Day,ICC KnockOut,West Indies,field first,Kenya
+Bangladesh,England,England,236,2,232,2,away,"Oct 5, 2000",Day,ICC KnockOut,Bangladesh,bat first,Kenya
+India,Australia,India,265,9,245,9,away,"Oct 7, 2000",Day,ICC KnockOut,Australia,field first,Kenya
+Sri Lanka,Pakistan,Pakistan,195,1,194,1,away,"Oct 8, 2000",Day,ICC KnockOut,Sri Lanka,bat first,Kenya
+New Zealand,Zimbabwe,New Zealand,265,7,201,7,away,"Oct 9, 2000",Day,ICC KnockOut,Zimbabwe,field first,Kenya
+England,South Africa,South Africa,184,2,182,2,away,"Oct 10, 2000",Day,ICC KnockOut,England,bat first,Kenya
+Pakistan,New Zealand,New Zealand,255,6,252,6,away,"Oct 11, 2000",Day,ICC KnockOut,Pakistan,bat first,Kenya
+India,South Africa,India,295,6,200,6,away,"Oct 13, 2000",Day,ICC KnockOut,India,bat first,Kenya
+India,New Zealand,New Zealand,265,6,264,6,away,"Oct 15, 2000",Day,ICC KnockOut,New Zealand,field first,Kenya
+India,Sri Lanka,Sri Lanka,225,5,224,5,away,"Oct 20, 2000",Day and night,Coca-Cola Champions Trophy,India,bat first,United Arab Emirates
+Zimbabwe,Sri Lanka,Sri Lanka,229,3,225,3,away,"Oct 21, 2000",Day and night,Coca-Cola Champions Trophy,Sri Lanka,field first,United Arab Emirates
+New Zealand,South Africa,South Africa,197,4,194,4,home,"Oct 22, 2000",Day,New Zealand tour of South Africa,New Zealand,bat first,South Africa
+India,Zimbabwe,India,265,8,252,8,away,"Oct 22, 2000",Day and night,Coca-Cola Champions Trophy,Zimbabwe,field first,United Arab Emirates
+Pakistan,England,England,306,5,304,5,away,"Oct 24, 2000",Day and night,England tour of Pakistan,Pakistan,bat first,Pakistan
+Sri Lanka,Zimbabwe,Sri Lanka,276,9,153,9,away,"Oct 25, 2000",Day and night,Coca-Cola Champions Trophy,Zimbabwe,field first,United Arab Emirates
+South Africa,New Zealand,South Africa,324,4,189,4,home,"Oct 25, 2000",Day and night,New Zealand tour of South Africa,New Zealand,field first,South Africa
+Zimbabwe,India,India,219,7,218,7,away,"Oct 26, 2000",Day and night,Coca-Cola Champions Trophy,India,field first,United Arab Emirates
+England,Pakistan,Pakistan,214,2,211,2,home,"Oct 27, 2000",Day and night,England tour of Pakistan,Pakistan,field first,Pakistan
+Sri Lanka,India,Sri Lanka,294,5,226,5,away,"Oct 27, 2000",Day and night,Coca-Cola Champions Trophy,India,field first,United Arab Emirates
+New Zealand,South Africa,South Africa,289,5,287,5,home,"Oct 28, 2000",Day,New Zealand tour of South Africa,South Africa,field first,South Africa
+Sri Lanka,India,Sri Lanka,299,5,54,5,away,"Oct 29, 2000",Day and night,Coca-Cola Champions Trophy,Sri Lanka,bat first,United Arab Emirates
+England,Pakistan,Pakistan,161,4,158,4,home,"Oct 30, 2000",Day and night,England tour of Pakistan,Pakistan,field first,Pakistan
+New Zealand,South Africa,South Africa,158,4,114,4,home,"Nov 1, 2000",Day and night,New Zealand tour of South Africa,South Africa,field first,South Africa
+New Zealand,South Africa,South Africa,258,7,256,7,home,"Nov 4, 2000",Day,New Zealand tour of South Africa,South Africa,field first,South Africa
+Zimbabwe,India,India,255,7,253,7,home,"Dec 2, 2000",Day,Zimbabwe tour of India,Zimbabwe,bat first,India
+India,Zimbabwe,India,306,5,245,5,home,"Dec 5, 2000",Day,Zimbabwe tour of India,India,bat first,India
+India,Zimbabwe,Zimbabwe,284,9,283,9,away,"Dec 8, 2000",Day,Zimbabwe tour of India,India,bat first,India
+Zimbabwe,India,India,166,1,165,1,home,"Dec 11, 2000",Day,Zimbabwe tour of India,Zimbabwe,bat first,India
+India,Zimbabwe,India,301,6,262,6,home,"Dec 14, 2000",Day,Zimbabwe tour of India,Zimbabwe,field first,India
+Sri Lanka,South Africa,South Africa,223,6,221,6,home,"Dec 15, 2000",Day and night,Sri Lanka tour of South Africa,Sri Lanka,bat first,South Africa
+South Africa,Sri Lanka,South Africa,302,7,207,7,home,"Dec 17, 2000",Day,Sri Lanka tour of South Africa,South Africa,bat first,South Africa
+Zimbabwe,New Zealand,Zimbabwe,300,7,210,7,away,"Jan 2, 2001",Day and night,Zimbabwe tour of New Zealand,New Zealand,field first,New Zealand
+Zimbabwe,New Zealand,New Zealand,237,2,236,2,home,"Jan 4, 2001",Day and night,Zimbabwe tour of New Zealand,Zimbabwe,bat first,New Zealand
+New Zealand,Zimbabwe,Zimbabwe,274,9,273,9,away,"Jan 7, 2001",Day,Zimbabwe tour of New Zealand,Zimbabwe,field first,New Zealand
+Sri Lanka,South Africa,South Africa,250,2,247,2,home,"Jan 9, 2001",Day and night,Sri Lanka tour of South Africa,Sri Lanka,bat first,South Africa
+Australia,West Indies,Australia,267,6,193,6,home,"Jan 11, 2001",Day and night,Carlton Series,Australia,bat first,Australia
+South Africa,Sri Lanka,South Africa,290,7,191,7,home,"Jan 11, 2001",Day and night,Sri Lanka tour of South Africa,South Africa,bat first,South Africa
+Zimbabwe,West Indies,West Indies,241,9,240,9,away,"Jan 13, 2001",Day and night,Carlton Series,Zimbabwe,bat first,Australia
+West Indies,Australia,Australia,236,1,234,1,home,"Jan 14, 2001",Day and night,Carlton Series,West Indies,bat first,Australia
+Sri Lanka,South Africa,South Africa,207,5,206,5,home,"Jan 14, 2001",Day,Sri Lanka tour of South Africa,South Africa,field first,South Africa
+Australia,West Indies,Australia,277,4,211,4,home,"Jan 17, 2001",Day and night,Carlton Series,West Indies,field first,Australia
+Sri Lanka,South Africa,Sri Lanka,214,6,204,6,away,"Jan 17, 2001",Day and night,Sri Lanka tour of South Africa,South Africa,field first,South Africa
+Zimbabwe,Australia,Australia,226,2,223,2,home,"Jan 21, 2001",Day and night,Carlton Series,Zimbabwe,bat first,Australia
+Zimbabwe,West Indies,Zimbabwe,138,10,91,10,away,"Jan 23, 2001",Day and night,Carlton Series,West Indies,field first,Australia
+West Indies,Zimbabwe,West Indies,235,6,175,6,away,"Jan 25, 2001",Day and night,Carlton Series,West Indies,bat first,Australia
+West Indies,Australia,Australia,124,0,123,0,home,"Jan 26, 2001",Day and night,Carlton Series,West Indies,bat first,Australia
+Australia,Zimbabwe,Australia,291,6,205,6,home,"Jan 28, 2001",Day and night,Carlton Series,Australia,bat first,Australia
+Zimbabwe,Australia,Australia,282,4,279,4,home,"Jan 30, 2001",Day,Carlton Series,Australia,field first,Australia
+Sri Lanka,New Zealand,Sri Lanka,213,8,152,8,away,"Jan 31, 2001",Day and night,Sri Lanka tour of New Zealand,Sri Lanka,bat first,New Zealand
+West Indies,Zimbabwe,West Indies,178,10,134,10,away,"Feb 2, 2001",Day and night,Carlton Series,West Indies,bat first,Australia
+New Zealand,Sri Lanka,Sri Lanka,209,7,205,7,away,"Feb 3, 2001",Day and night,Sri Lanka tour of New Zealand,New Zealand,bat first,New Zealand
+Australia,Zimbabwe,Australia,302,5,301,5,home,"Feb 4, 2001",Day,Carlton Series,Australia,bat first,Australia
+New Zealand,Sri Lanka,Sri Lanka,182,1,181,1,away,"Feb 6, 2001",Day,Sri Lanka tour of New Zealand,Sri Lanka,field first,New Zealand
+Australia,West Indies,Australia,253,9,119,9,home,"Feb 7, 2001",Day and night,Carlton Series,West Indies,field first,Australia
+New Zealand,Sri Lanka,Sri Lanka,155,5,182,5,away,"Feb 8, 2001",Day,Sri Lanka tour of New Zealand,Sri Lanka,field first,New Zealand
+Australia,West Indies,Australia,338,6,299,6,home,"Feb 9, 2001",Day and night,Carlton Series,West Indies,field first,Australia
+New Zealand,Sri Lanka,New Zealand,282,6,269,6,home,"Feb 11, 2001",Day,Sri Lanka tour of New Zealand,Sri Lanka,field first,New Zealand
+New Zealand,Pakistan,Pakistan,150,4,149,4,away,"Feb 17-18, 2001",Day and night,Pakistan tour of New Zealand,Pakistan,field first,New Zealand
+Pakistan,New Zealand,New Zealand,136,4,135,4,home,"Feb 20, 2001",Day and night,Pakistan tour of New Zealand,New Zealand,field first,New Zealand
+Pakistan,New Zealand,Pakistan,243,9,215,9,away,"Feb 22, 2001",Day and night,Pakistan tour of New Zealand,New Zealand,field first,New Zealand
+New Zealand,Pakistan,New Zealand,284,5,146,5,home,"Feb 25, 2001",Day,Pakistan tour of New Zealand,Pakistan,field first,New Zealand
+Pakistan,New Zealand,New Zealand,290,6,285,6,home,"Feb 28, 2001",Day and night,Pakistan tour of New Zealand,Pakistan,bat first,New Zealand
+England,Sri Lanka,Sri Lanka,144,5,143,5,home,"Mar 23, 2001",Day,England tour of Sri Lanka,England,bat first,Sri Lanka
+Sri Lanka,England,Sri Lanka,226,6,160,6,home,"Mar 25, 2001",Day and night,England tour of Sri Lanka,Sri Lanka,bat first,Sri Lanka
+India,Australia,India,315,10,255,10,home,"Mar 25, 2001",Day and night,Australia tour of India,India,bat first,India
+England,Sri Lanka,Sri Lanka,166,0,165,0,home,"Mar 27, 2001",Day,England tour of Sri Lanka,Sri Lanka,field first,Sri Lanka
+India,Australia,Australia,249,2,248,2,away,"Mar 28, 2001",Day,Australia tour of India,India,bat first,India
+India,Australia,India,299,8,181,8,home,"Mar 31, 2001",Day,Australia tour of India,Australia,field first,India
+Australia,India,Australia,338,4,245,4,away,"Apr 3, 2001",Day,Australia tour of India,Australia,bat first,India
+India,Australia,Australia,269,6,265,6,away,"Apr 6, 2001",Day,Australia tour of India,India,bat first,India
+Bangladesh,Zimbabwe,Zimbabwe,155,3,151,3,home,"Apr 7, 2001",Day,Bangladesh tour of Zimbabwe,Bangladesh,bat first,Zimbabwe
+Zimbabwe,Bangladesh,Zimbabwe,230,7,103,7,home,"Apr 8, 2001",Day,Bangladesh tour of Zimbabwe,Bangladesh,field first,Zimbabwe
+Pakistan,Sri Lanka,Pakistan,255,9,239,9,away,"Apr 8, 2001",Day and night,ARY Gold Cup,Pakistan,bat first,United Arab Emirates
+Sri Lanka,New Zealand,Sri Lanka,269,9,163,9,away,"Apr 10, 2001",Day and night,ARY Gold Cup,Sri Lanka,bat first,United Arab Emirates
+Zimbabwe,Bangladesh,Zimbabwe,308,4,272,4,home,"Apr 11, 2001",Day,Bangladesh tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+New Zealand,Pakistan,Pakistan,270,2,266,2,away,"Apr 12, 2001",Day and night,ARY Gold Cup,New Zealand,bat first,United Arab Emirates
+Pakistan,Sri Lanka,Pakistan,278,9,250,9,away,"Apr 13, 2001",Day and night,ARY Gold Cup,Pakistan,bat first,United Arab Emirates
+New Zealand,Pakistan,Pakistan,131,3,127,3,away,"Apr 15, 2001",Day and night,ARY Gold Cup,New Zealand,bat first,United Arab Emirates
+New Zealand,Sri Lanka,New Zealand,248,6,169,6,away,"Apr 17, 2001",Day and night,ARY Gold Cup,Sri Lanka,field first,United Arab Emirates
+Sri Lanka,Pakistan,Sri Lanka,297,7,220,7,away,"Apr 20, 2001",Day and night,ARY Gold Cup,Sri Lanka,bat first,United Arab Emirates
+South Africa,West Indies,West Indies,202,7,200,7,home,"Apr 28, 2001",Day,South Africa tour of West Indies,West Indies,field first,West Indies
+West Indies,South Africa,South Africa,221,2,220,2,away,"May 2, 2001",Day,South Africa tour of West Indies,South Africa,field first,West Indies
+South Africa,West Indies,South Africa,287,4,155,4,away,"May 5, 2001",Day,South Africa tour of West Indies,West Indies,field first,Grenada
+West Indies,South Africa,South Africa,201,2,200,2,away,"May 6, 2001",Day,South Africa tour of West Indies,South Africa,field first,Grenada
+West Indies,South Africa,South Africa,202,3,199,3,away,"May 9, 2001",Day,South Africa tour of West Indies,South Africa,field first,West Indies
+South Africa,West Indies,South Africa,190,10,137,10,away,"May 12, 2001",Day,South Africa tour of West Indies,West Indies,field first,West Indies
+South Africa,West Indies,West Indies,164,4,163,4,home,"May 16, 2001",Day,South Africa tour of West Indies,South Africa,bat first,West Indies
+Pakistan,England,Pakistan,273,6,165,6,away,"Jun 7, 2001",Day and night,NatWest Series,Pakistan,bat first,England
+Pakistan,Australia,Australia,258,3,257,3,away,"Jun 9, 2001",Day,NatWest Series,Pakistan,bat first,Wales
+England,Australia,Australia,272,5,268,5,away,"Jun 10, 2001",Day,NatWest Series,England,bat first,England
+Pakistan,England,Pakistan,242,8,240,8,away,"Jun 12, 2001",Day,NatWest Series,England,field first,England
+Australia,England,Australia,208,7,86,7,away,"Jun 14, 2001",Day and night,NatWest Series,Australia,bat first,England
+England,Pakistan,Pakistan,153,4,156,4,away,"Jun 17, 2001",Day,NatWest Series,Pakistan,field first,England
+Pakistan,Australia,Pakistan,290,9,254,9,away,"Jun 19, 2001",Day and night,NatWest Series,Pakistan,bat first,England
+England,Australia,Australia,177,2,176,2,away,"Jun 21, 2001",Day,NatWest Series,England,bat first,England
+West Indies,Zimbabwe,West Indies,266,5,239,5,away,"Jun 23, 2001",Day,Coca-Cola Cup (Zimbabwe),Zimbabwe,field first,Zimbabwe
+Pakistan,Australia,Australia,156,1,152,1,away,"Jun 23, 2001",Day,NatWest Series,Pakistan,bat first,England
+Zimbabwe,India,India,137,1,133,1,away,"Jun 24, 2001",Day,Coca-Cola Cup (Zimbabwe),India,field first,Zimbabwe
+Zimbabwe,India,India,237,6,234,6,away,"Jun 27, 2001",Day,Coca-Cola Cup (Zimbabwe),India,field first,Zimbabwe
+West Indies,India,India,170,4,169,4,away,"Jun 30, 2001",Day,Coca-Cola Cup (Zimbabwe),India,field first,Zimbabwe
+Zimbabwe,West Indies,West Indies,258,5,255,5,away,"Jul 1, 2001",Day,Coca-Cola Cup (Zimbabwe),West Indies,field first,Zimbabwe
+West Indies,India,India,230,4,229,4,away,"Jul 4, 2001",Day,Coca-Cola Cup (Zimbabwe),India,field first,Zimbabwe
+West Indies,India,West Indies,290,6,274,6,away,"Jul 7, 2001",Day,Coca-Cola Cup (Zimbabwe),India,field first,Zimbabwe
+Sri Lanka,New Zealand,Sri Lanka,220,10,204,10,home,"Jul 18, 2001",Day and night,Coca-Cola Cup (Sri Lanka),Sri Lanka,bat first,Sri Lanka
+New Zealand,India,New Zealand,211,8,127,8,away,"Jul 20, 2001",Day and night,Coca-Cola Cup (Sri Lanka),New Zealand,bat first,Sri Lanka
+Sri Lanka,India,Sri Lanka,221,9,215,9,home,"Jul 22, 2001",Day and night,Coca-Cola Cup (Sri Lanka),Sri Lanka,bat first,Sri Lanka
+New Zealand,Sri Lanka,Sri Lanka,240,5,236,5,home,"Jul 25, 2001",Day,Coca-Cola Cup (Sri Lanka),New Zealand,bat first,Sri Lanka
+New Zealand,India,New Zealand,200,10,133,10,away,"Jul 26, 2001",Day,Coca-Cola Cup (Sri Lanka),India,field first,Sri Lanka
+Sri Lanka,India,India,184,3,183,3,away,"Jul 28, 2001",Day,Coca-Cola Cup (Sri Lanka),Sri Lanka,bat first,Sri Lanka
+Sri Lanka,New Zealand,Sri Lanka,221,6,115,6,home,"Jul 31, 2001",Day,Coca-Cola Cup (Sri Lanka),New Zealand,field first,Sri Lanka
+India,Sri Lanka,India,227,8,181,8,away,"Aug 1, 2001",Day,Coca-Cola Cup (Sri Lanka),Sri Lanka,field first,Sri Lanka
+New Zealand,India,India,267,3,264,3,away,"Aug 2, 2001",Day,Coca-Cola Cup (Sri Lanka),New Zealand,bat first,Sri Lanka
+Sri Lanka,India,Sri Lanka,295,5,174,5,home,"Aug 5, 2001",Day and night,Coca-Cola Cup (Sri Lanka),Sri Lanka,bat first,Sri Lanka
+West Indies,Kenya,West Indies,311,4,205,4,away,"Aug 15, 2001",Day,West Indies tour of Kenya,Kenya,field first,Kenya
+Kenya,West Indies,West Indies,193,4,192,4,away,"Aug 18, 2001",Day,West Indies tour of Kenya,Kenya,bat first,Kenya
+Kenya,West Indies,West Indies,234,3,232,3,away,"Aug 19, 2001",Day,West Indies tour of Kenya,Kenya,bat first,Kenya
+South Africa,Zimbabwe,South Africa,363,3,210,3,away,"Sep 23, 2001",Day,South Africa tour of Zimbabwe,South Africa,bat first,Zimbabwe
+South Africa,Zimbabwe,South Africa,272,7,124,7,away,"Sep 29, 2001",Day,South Africa tour of Zimbabwe,South Africa,bat first,Zimbabwe
+Zimbabwe,South Africa,South Africa,188,4,184,4,away,"Sep 30, 2001",Day,South Africa tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Zimbabwe,England,England,210,5,206,5,away,"Oct 3, 2001",Day,England tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+India,South Africa,South Africa,280,4,279,4,home,"Oct 5, 2001",Day and night,Standard Bank Triangular Tournament,South Africa,field first,South Africa
+Zimbabwe,England,England,196,2,195,2,away,"Oct 6, 2001",Day,England tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Zimbabwe,England,England,265,6,261,6,away,"Oct 7, 2001",Day,England tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Kenya,South Africa,South Africa,160,3,159,3,home,"Oct 7, 2001",Day,Standard Bank Triangular Tournament,Kenya,bat first,South Africa
+England,Zimbabwe,England,280,9,210,9,away,"Oct 10, 2001",Day,England tour of Zimbabwe,England,bat first,Zimbabwe
+India,South Africa,India,233,10,192,10,away,"Oct 10, 2001",Day and night,Standard Bank Triangular Tournament,India,bat first,South Africa
+Kenya,India,India,91,0,90,0,away,"Oct 12, 2001",Day and night,Standard Bank Triangular Tournament,Kenya,bat first,South Africa
+Zimbabwe,England,England,229,3,228,3,away,"Oct 13, 2001",Day,England tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Kenya,South Africa,South Africa,230,1,229,1,home,"Oct 14, 2001",Day,Standard Bank Triangular Tournament,Kenya,bat first,South Africa
+Kenya,India,Kenya,246,6,176,6,away,"Oct 17, 2001",Day and night,Standard Bank Triangular Tournament,Kenya,bat first,South Africa
+South Africa,India,South Africa,282,4,236,4,home,"Oct 19, 2001",Day and night,Standard Bank Triangular Tournament,South Africa,bat first,South Africa
+South Africa,Kenya,South Africa,354,3,146,3,home,"Oct 22, 2001",Day and night,Standard Bank Triangular Tournament,South Africa,bat first,South Africa
+India,Kenya,India,351,3,165,3,away,"Oct 24, 2001",Day and night,Standard Bank Triangular Tournament,India,bat first,South Africa
+Sri Lanka,Zimbabwe,Sri Lanka,256,6,193,6,away,"Oct 26, 2001",Day and night,Khaleej Times Trophy,Sri Lanka,bat first,United Arab Emirates
+India,South Africa,South Africa,187,4,183,4,home,"Oct 26, 2001",Day and night,Standard Bank Triangular Tournament,South Africa,field first,South Africa
+Pakistan,Sri Lanka,Sri Lanka,177,3,176,3,away,"Oct 27, 2001",Day and night,Khaleej Times Trophy,Pakistan,bat first,United Arab Emirates
+Pakistan,Zimbabwe,Pakistan,279,6,173,6,away,"Oct 28, 2001",Day and night,Khaleej Times Trophy,Pakistan,bat first,United Arab Emirates
+Sri Lanka,Zimbabwe,Sri Lanka,250,10,171,10,away,"Oct 30, 2001",Day and night,Khaleej Times Trophy,Sri Lanka,bat first,United Arab Emirates
+Pakistan,Zimbabwe,Pakistan,261,9,232,9,away,"Oct 31, 2001",Day and night,Khaleej Times Trophy,Pakistan,bat first,United Arab Emirates
+Sri Lanka,Pakistan,Pakistan,273,3,272,3,away,"Nov 2, 2001",Day and night,Khaleej Times Trophy,Sri Lanka,bat first,United Arab Emirates
+Sri Lanka,Pakistan,Pakistan,177,5,173,5,away,"Nov 4, 2001",Day and night,Khaleej Times Trophy,Sri Lanka,bat first,United Arab Emirates
+Bangladesh,Zimbabwe,Zimbabwe,161,5,156,5,away,"Nov 23, 2001",Day,Zimbabwe tour of Bangladesh,Zimbabwe,field first,Bangladesh
+Zimbabwe,Bangladesh,Zimbabwe,309,6,267,6,away,"Nov 25, 2001",Day and night,Zimbabwe tour of Bangladesh,Zimbabwe,bat first,Bangladesh
+Bangladesh,Zimbabwe,Zimbabwe,219,3,215,3,away,"Nov 26, 2001",Day and night,Zimbabwe tour of Bangladesh,Bangladesh,bat first,Bangladesh
+Zimbabwe,Sri Lanka,Sri Lanka,40,1,38,1,home,"Dec 8, 2001",Day,LG Abans Triangular Series,Sri Lanka,field first,Sri Lanka
+West Indies,Zimbabwe,Zimbabwe,175,6,173,6,away,"Dec 9, 2001",Day,LG Abans Triangular Series,Zimbabwe,field first,Sri Lanka
+West Indies,Sri Lanka,West Indies,250,8,201,8,away,"Dec 11, 2001",Day and night,LG Abans Triangular Series,West Indies,bat first,Sri Lanka
+Sri Lanka,Zimbabwe,Sri Lanka,272,7,213,7,home,"Dec 12, 2001",Day and night,LG Abans Triangular Series,Sri Lanka,bat first,Sri Lanka
+West Indies,Sri Lanka,Sri Lanka,239,2,235,2,home,"Dec 15, 2001",Day,LG Abans Triangular Series,Sri Lanka,field first,Sri Lanka
+Zimbabwe,West Indies,West Indies,155,2,154,2,away,"Dec 16, 2001",Day,LG Abans Triangular Series,West Indies,field first,Sri Lanka
+Sri Lanka,West Indies,Sri Lanka,253,8,212,8,home,"Dec 19, 2001",Day and night,LG Abans Triangular Series,Sri Lanka,bat first,Sri Lanka
+New Zealand,Australia,New Zealand,199,8,176,8,away,"Jan 11, 2002",Day and night,VB Series,Australia,field first,Australia
+Australia,South Africa,South Africa,199,6,198,6,away,"Jan 13, 2002",Day and night,VB Series,Australia,bat first,Australia
+South Africa,New Zealand,South Africa,257,7,231,7,away,"Jan 15, 2002",Day,VB Series,South Africa,bat first,Australia
+New Zealand,Australia,New Zealand,235,9,212,9,away,"Jan 17, 2002",Day and night,VB Series,New Zealand,bat first,Australia
+South Africa,New Zealand,New Zealand,244,6,241,6,away,"Jan 19, 2002",Day and night,VB Series,South Africa,bat first,Australia
+India,England,India,281,8,259,8,home,"Jan 19, 2002",Day and night,England tour of India,India,bat first,India
+Australia,South Africa,Australia,241,4,214,4,home,"Jan 20, 2002",Day and night,VB Series,Australia,bat first,Australia
+Pakistan,Bangladesh,Pakistan,202,10,153,10,away,"Jan 22, 2002",Day,Pakistan tour of Bangladesh,Pakistan,bat first,Bangladesh
+South Africa,Australia,Australia,107,2,106,2,home,"Jan 22, 2002",Day and night,VB Series,South Africa,bat first,Australia
+England,India,England,250,7,234,7,away,"Jan 22, 2002",Day,England tour of India,India,field first,India
+Pakistan,Bangladesh,Pakistan,281,5,209,5,away,"Jan 24, 2002",Day and night,Pakistan tour of Bangladesh,Pakistan,bat first,Bangladesh
+Bangladesh,Pakistan,Pakistan,221,2,220,2,away,"Jan 25, 2002",Day and night,Pakistan tour of Bangladesh,Bangladesh,bat first,Bangladesh
+England,India,India,221,6,217,6,home,"Jan 25, 2002",Day and night,England tour of India,England,bat first,India
+New Zealand,Australia,New Zealand,242,5,165,5,away,"Jan 26, 2002",Day and night,VB Series,New Zealand,bat first,Australia
+South Africa,New Zealand,South Africa,253,5,160,5,away,"Jan 27, 2002",Day and night,VB Series,South Africa,bat first,Australia
+England,India,India,219,2,218,2,home,"Jan 28, 2002",Day,England tour of India,England,bat first,India
+New Zealand,Australia,Australia,248,8,245,8,home,"Jan 29, 2002",Day and night,VB Series,New Zealand,bat first,Australia
+England,India,England,271,5,269,5,away,"Jan 31, 2002",Day,England tour of India,India,field first,India
+South Africa,New Zealand,South Africa,270,5,203,5,away,"Feb 1, 2002",Day and night,VB Series,New Zealand,field first,Australia
+Australia,South Africa,Australia,283,7,250,7,home,"Feb 3, 2002",Day,VB Series,South Africa,field first,Australia
+England,India,England,255,10,250,10,away,"Feb 3, 2002",Day and night,England tour of India,England,bat first,India
+New Zealand,South Africa,South Africa,191,2,190,2,away,"Feb 6, 2002",Day and night,VB Series,New Zealand,bat first,Australia
+New Zealand,South Africa,South Africa,173,4,175,4,away,"Feb 8, 2002",Day and night,VB Series,New Zealand,bat first,Australia
+England,New Zealand,New Zealand,198,6,196,6,home,"Feb 13, 2002",Day and night,England tour of New Zealand,England,bat first,New Zealand
+West Indies,Pakistan,Pakistan,193,6,190,6,away,"Feb 14, 2002",Day and night,Pakistan tour of United Arab Emirates,West Indies,bat first,United Arab Emirates
+Pakistan,West Indies,Pakistan,232,10,181,10,away,"Feb 15, 2002",Day and night,Pakistan tour of United Arab Emirates,Pakistan,bat first,United Arab Emirates
+New Zealand,England,New Zealand,244,8,89,8,home,"Feb 16, 2002",Day and night,England tour of New Zealand,England,field first,New Zealand
+West Indies,Pakistan,West Indies,260,5,150,5,away,"Feb 17, 2002",Day and night,Pakistan tour of United Arab Emirates,West Indies,bat first,United Arab Emirates
+England,New Zealand,England,244,5,201,5,away,"Feb 20, 2002",Day and night,England tour of New Zealand,New Zealand,field first,New Zealand
+England,New Zealand,England,193,6,189,6,away,"Feb 23, 2002",Day and night,England tour of New Zealand,England,bat first,New Zealand
+England,New Zealand,New Zealand,223,5,218,5,home,"Feb 26, 2002",Day and night,England tour of New Zealand,England,bat first,New Zealand
+India,Zimbabwe,Zimbabwe,277,9,274,9,away,"Mar 7, 2002",Day,Zimbabwe tour of India,India,bat first,India
+India,Zimbabwe,India,319,6,255,6,home,"Mar 10, 2002",Day and night,Zimbabwe tour of India,India,bat first,India
+India,Zimbabwe,Zimbabwe,197,4,191,4,away,"Mar 13, 2002",Day,Zimbabwe tour of India,India,bat first,India
+Zimbabwe,India,India,244,5,240,5,home,"Mar 16, 2002",Day and night,Zimbabwe tour of India,Zimbabwe,bat first,India
+India,Zimbabwe,India,333,6,232,6,home,"Mar 19, 2002",Day,Zimbabwe tour of India,India,bat first,India
+Australia,South Africa,Australia,223,8,204,8,away,"Mar 22, 2002",Day,Australia tour of South Africa,Australia,bat first,South Africa
+Australia,South Africa,Australia,226,8,181,8,away,"Mar 24, 2002",Day,Australia tour of South Africa,South Africa,field first,South Africa
+Australia,South Africa,Australia,290,6,253,6,away,"Mar 30, 2002",Day,Australia tour of South Africa,Australia,bat first,South Africa
+South Africa,Australia,Australia,271,2,267,2,away,"Apr 3, 2002",Day and night,Australia tour of South Africa,Australia,field first,South Africa
+South Africa,Australia,Australia,330,7,326,7,away,"Apr 6, 2002",Day,Australia tour of South Africa,South Africa,bat first,South Africa
+Sri Lanka,Pakistan,Sri Lanka,242,9,201,9,away,"Apr 8, 2002",Day and night,Sharjah Cup,Sri Lanka,bat first,United Arab Emirates
+New Zealand,Sri Lanka,New Zealand,218,8,207,8,away,"Apr 9, 2002",Day and night,Sharjah Cup,New Zealand,bat first,United Arab Emirates
+South Africa,Australia,South Africa,249,7,185,7,home,"Apr 9, 2002",Day and night,Australia tour of South Africa,Australia,field first,South Africa
+Pakistan,New Zealand,Pakistan,288,6,237,6,away,"Apr 11, 2002",Day and night,Sharjah Cup,Pakistan,bat first,United Arab Emirates
+Sri Lanka,Pakistan,Sri Lanka,239,6,230,6,away,"Apr 12, 2002",Day and night,Sharjah Cup,Sri Lanka,bat first,United Arab Emirates
+Sri Lanka,New Zealand,Sri Lanka,243,9,197,9,away,"Apr 14, 2002",Day and night,Sharjah Cup,Sri Lanka,bat first,United Arab Emirates
+New Zealand,Pakistan,Pakistan,217,2,213,2,away,"Apr 15, 2002",Day and night,Sharjah Cup,New Zealand,bat first,United Arab Emirates
+Pakistan,Sri Lanka,Pakistan,295,6,78,6,away,"Apr 17, 2002",Day and night,Sharjah Cup,Pakistan,bat first,United Arab Emirates
+Pakistan,New Zealand,Pakistan,275,6,122,6,home,"Apr 21, 2002",Day and night,New Zealand tour of Pakistan,Pakistan,bat first,Pakistan
+New Zealand,Pakistan,Pakistan,278,7,277,7,home,"Apr 24, 2002",Day and night,New Zealand tour of Pakistan,New Zealand,bat first,Pakistan
+Pakistan,New Zealand,Pakistan,278,5,212,5,home,"Apr 27, 2002",Day and night,New Zealand tour of Pakistan,Pakistan,bat first,Pakistan
+West Indies,India,India,187,3,186,3,away,"May 29, 2002",Day,India tour of West Indies,India,field first,West Indies
+India,West Indies,West Indies,124,3,123,3,home,"Jun 1, 2002",Day,India tour of West Indies,India,bat first,West Indies
+India,West Indies,India,260,10,191,10,away,"Jun 2, 2002",Day,India tour of West Indies,India,bat first,West Indies
+New Zealand,West Indies,West Indies,250,4,248,4,home,"Jun 8, 2002",Day,New Zealand tour of West Indies,West Indies,field first,West Indies
+New Zealand,West Indies,West Indies,211,3,210,3,home,"Jun 9, 2002",Day,New Zealand tour of West Indies,New Zealand,bat first,West Indies
+Pakistan,Australia,Australia,177,3,176,3,home,"Jun 12, 2002",Day and night,Pakistan tour of Australia,Australia,field first,Australia
+New Zealand,West Indies,New Zealand,212,5,202,5,away,"Jun 12, 2002",Day,New Zealand tour of West Indies,New Zealand,bat first,West Indies
+Australia,Pakistan,Pakistan,168,8,167,8,away,"Jun 15, 2002",Day and night,Pakistan tour of Australia,Australia,bat first,Australia
+New Zealand,West Indies,West Indies,292,6,291,6,home,"Jun 16, 2002",Day,New Zealand tour of West Indies,New Zealand,bat first,West Indies
+Pakistan,Australia,Pakistan,256,7,165,7,away,"Jun 19, 2002",Day and night,Pakistan tour of Australia,Pakistan,bat first,Australia
+England,Sri Lanka,England,293,6,249,6,home,"Jun 27, 2002",Day and night,NatWest Series,England,bat first,England
+England,India,India,272,4,271,4,away,"Jun 29, 2002",Day,,England,bat first,England
+Sri Lanka,India,India,203,6,202,6,away,"Jun 30, 2002",Day,,Sri Lanka,bat first,England
+Sri Lanka,England,England,241,7,240,7,home,"Jul 2, 2002",Day,,England,field first,England
+Sri Lanka,India,India,188,6,187,6,away,"Jul 6, 2002",Day,,India,field first,England
+Sri Lanka,England,Sri Lanka,229,10,206,10,away,"Jul 7, 2002",Day,,Sri Lanka,bat first,England
+England,India,England,229,8,165,8,home,"Jul 9, 2002",Day,,India,field first,England
+India,Sri Lanka,India,304,10,241,10,away,"Jul 11, 2002",Day and night,NatWest Series,India,bat first,England
+England,India,India,326,8,325,8,away,"Jul 13, 2002",Day,NatWest Series,England,bat first,England
+Bangladesh,Sri Lanka,Sri Lanka,228,5,226,5,home,"Aug 4, 2002",Day,Bangladesh tour of Sri Lanka,Bangladesh,bat first,Sri Lanka
+Bangladesh,Sri Lanka,Sri Lanka,77,2,76,2,home,"Aug 5, 2002",Day,Bangladesh tour of Sri Lanka,Bangladesh,bat first,Sri Lanka
+Sri Lanka,Bangladesh,Sri Lanka,258,6,200,6,home,"Aug 7, 2002",Day,Bangladesh tour of Sri Lanka,Bangladesh,field first,Sri Lanka
+South Africa,Pakistan,South Africa,283,9,229,9,away,"Aug 12, 2002",Day,Morocco Cup,South Africa,bat first,Morocco
+Pakistan,Sri Lanka,Pakistan,279,5,251,5,away,"Aug 14, 2002",Day,Morocco Cup,Sri Lanka,field first,Morocco
+Sri Lanka,South Africa,Sri Lanka,267,7,174,7,away,"Aug 15, 2002",Day,Morocco Cup,Sri Lanka,bat first,Morocco
+Sri Lanka,Pakistan,Sri Lanka,242,10,203,10,away,"Aug 17, 2002",Day,Morocco Cup,Sri Lanka,bat first,Morocco
+South Africa,Pakistan,South Africa,196,8,188,8,away,"Aug 18, 2002",Day,Morocco Cup,South Africa,bat first,Morocco
+South Africa,Sri Lanka,Sri Lanka,221,4,220,4,away,"Aug 19, 2002",Day,Morocco Cup,South Africa,bat first,Morocco
+Sri Lanka,South Africa,Sri Lanka,235,7,208,7,away,"Aug 21, 2002",Day,Morocco Cup,Sri Lanka,bat first,Morocco
+Kenya,Pakistan,Pakistan,134,6,133,6,away,"Aug 29, 2002",Day,PSO Tri-Nation Tournament,Pakistan,field first,Kenya
+Australia,Pakistan,Australia,332,5,108,5,away,"Aug 30, 2002",Day,PSO Tri-Nation Tournament,Pakistan,field first,Kenya
+Kenya,Pakistan,Pakistan,181,3,179,3,away,"Sep 1, 2002",Day,PSO Tri-Nation Tournament,Kenya,bat first,Kenya
+Kenya,Australia,Australia,85,2,84,2,away,"Sep 2, 2002",Day,PSO Tri-Nation Tournament,Australia,field first,Kenya
+Pakistan,Australia,Australia,121,1,117,1,away,"Sep 4, 2002",Day,PSO Tri-Nation Tournament,Pakistan,bat first,Kenya
+Kenya,Australia,Australia,205,5,204,5,away,"Sep 5, 2002",Day,PSO Tri-Nation Tournament,Kenya,bat first,Kenya
+Pakistan,Sri Lanka,Sri Lanka,201,2,200,2,home,"Sep 12, 2002",Day and night,ICC Champions Trophy,Pakistan,bat first,Sri Lanka
+West Indies,South Africa,South Africa,242,8,238,8,away,"Sep 13, 2002",Day,ICC Champions Trophy,South Africa,field first,Sri Lanka
+India,Zimbabwe,India,288,6,274,6,away,"Sep 14, 2002",Day and night,ICC Champions Trophy,India,bat first,Sri Lanka
+Australia,New Zealand,Australia,296,7,132,7,away,"Sep 15, 2002",Day,ICC Champions Trophy,Australia,bat first,Sri Lanka
+Sri Lanka,Netherlands,Sri Lanka,292,6,86,6,home,"Sep 16, 2002",Day and night,ICC Champions Trophy,Sri Lanka,bat first,Sri Lanka
+West Indies,Kenya,West Indies,261,6,232,6,away,"Sep 17, 2002",Day,ICC Champions Trophy,West Indies,bat first,Sri Lanka
+England,Zimbabwe,England,298,8,190,8,away,"Sep 18, 2002",Day and night,ICC Champions Trophy,England,bat first,Sri Lanka
+Bangladesh,Australia,Australia,133,1,129,1,away,"Sep 19, 2002",Day,ICC Champions Trophy,Bangladesh,bat first,Sri Lanka
+South Africa,Kenya,South Africa,316,5,140,5,away,"Sep 20, 2002",Day and night,ICC Champions Trophy,South Africa,bat first,Sri Lanka
+Netherlands,Pakistan,Pakistan,142,1,136,1,away,"Sep 21, 2002",Day,ICC Champions Trophy,Netherlands,bat first,Sri Lanka
+England,India,India,271,2,269,2,away,"Sep 22, 2002",Day and night,ICC Champions Trophy,England,bat first,Sri Lanka
+New Zealand,Bangladesh,New Zealand,244,9,77,9,away,"Sep 23, 2002",Day,ICC Champions Trophy,Bangladesh,field first,Sri Lanka
+India,South Africa,India,261,9,251,9,away,"Sep 25, 2002",Day and night,ICC Champions Trophy,India,bat first,Sri Lanka
+Australia,Sri Lanka,Sri Lanka,163,3,162,3,home,"Sep 27, 2002",Day and night,ICC Champions Trophy,Australia,bat first,Sri Lanka
+South Africa,Bangladesh,South Africa,301,8,133,8,home,"Oct 3, 2002",Day and night,Bangladesh tour of South Africa,South Africa,bat first,South Africa
+Bangladesh,South Africa,South Africa,155,0,154,0,home,"Oct 6, 2002",Day,Bangladesh tour of South Africa,South Africa,field first,South Africa
+Bangladesh,South Africa,South Africa,152,3,151,3,home,"Oct 9, 2002",Day and night,Bangladesh tour of South Africa,Bangladesh,bat first,South Africa
+India,West Indies,West Indies,285,6,283,6,away,"Nov 6, 2002",Day,West Indies tour of India,India,bat first,India
+India,West Indies,West Indies,280,3,279,3,away,"Nov 9, 2002",Day,West Indies tour of India,West Indies,field first,India
+West Indies,India,India,200,1,300,1,home,"Nov 12, 2002",Day,West Indies tour of India,India,field first,India
+West Indies,India,India,325,5,324,5,home,"Nov 15, 2002",Day and night,West Indies tour of India,India,field first,India
+India,West Indies,West Indies,291,5,290,5,away,"Nov 18, 2002",Day,West Indies tour of India,West Indies,field first,India
+West Indies,India,India,202,7,201,7,home,"Nov 21, 2002",Day,West Indies tour of India,India,field first,India
+Pakistan,Zimbabwe,Pakistan,302,4,295,4,away,"Nov 23, 2002",Day,Pakistan tour of Zimbabwe,Pakistan,bat first,Zimbabwe
+West Indies,India,West Indies,315,6,180,6,away,"Nov 24, 2002",Day,West Indies tour of India,India,field first,India
+Pakistan,Zimbabwe,Pakistan,344,5,140,5,away,"Nov 24, 2002",Day,Pakistan tour of Zimbabwe,Pakistan,bat first,Zimbabwe
+Pakistan,Zimbabwe,Pakistan,323,3,275,3,away,"Nov 27, 2002",Day,Pakistan tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Sri Lanka,South Africa,South Africa,129,4,128,4,home,"Nov 27, 2002",Day,Sri Lanka tour of South Africa,South Africa,field first,South Africa
+South Africa,Sri Lanka,South Africa,317,6,140,6,home,"Nov 29, 2002",Day and night,Sri Lanka tour of South Africa,South Africa,bat first,South Africa
+Zimbabwe,Pakistan,Pakistan,211,2,210,2,away,"Nov 30, 2002",Day,Pakistan tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Pakistan,Zimbabwe,Pakistan,300,7,230,7,away,"Dec 1, 2002",Day,Pakistan tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+South Africa,Sri Lanka,Sri Lanka,258,3,253,3,away,"Dec 1, 2002",Day,Sri Lanka tour of South Africa,Sri Lanka,field first,South Africa
+West Indies,Bangladesh,West Indies,266,4,182,4,away,"Dec 2, 2002",Day and night,West Indies tour of Bangladesh,West Indies,bat first,Bangladesh
+West Indies,Bangladesh,West Indies,281,5,195,5,away,"Dec 3, 2002",Day and night,West Indies tour of Bangladesh,West Indies,bat first,Bangladesh
+Sri Lanka,South Africa,South Africa,190,2,184,2,home,"Dec 4, 2002",Day and night,Sri Lanka tour of South Africa,South Africa,field first,South Africa
+Sri Lanka,South Africa,South Africa,229,4,228,4,home,"Dec 6, 2002",Day and night,Sri Lanka tour of South Africa,Sri Lanka,bat first,South Africa
+South Africa,Pakistan,South Africa,272,7,140,7,home,"Dec 8, 2002",Day,Pakistan tour of South Africa,Pakistan,field first,South Africa
+Zimbabwe,Kenya,Zimbabwe,273,4,181,4,home,"Dec 11, 2002",Day,Kenya tour of Zimbabwe,Kenya,field first,Zimbabwe
+Pakistan,South Africa,Pakistan,335,6,153,6,away,"Dec 11, 2002",Day and night,Pakistan tour of South Africa,Pakistan,bat first,South Africa
+England,Australia,Australia,252,3,251,3,home,"Dec 13, 2002",Day and night,VB Series,England,bat first,Australia
+South Africa,Pakistan,South Africa,182,10,120,10,home,"Dec 13, 2002",Day and night,Pakistan tour of South Africa,South Africa,bat first,South Africa
+Australia,England,Australia,318,6,229,6,home,"Dec 15, 2002",Day and night,VB Series,Australia,bat first,Australia
+Kenya,Zimbabwe,Zimbabwe,136,1,133,1,home,"Dec 15, 2002",Day,Kenya tour of Zimbabwe,Kenya,bat first,Zimbabwe
+Pakistan,South Africa,South Africa,214,1,213,1,home,"Dec 16, 2002",Day,Pakistan tour of South Africa,Pakistan,bat first,South Africa
+England,Sri Lanka,England,292,10,249,10,away,"Dec 17, 2002",Day and night,VB Series,England,bat first,Australia
+South Africa,Pakistan,South Africa,265,8,231,8,home,"Dec 18, 2002",Day and night,Pakistan tour of South Africa,South Africa,bat first,South Africa
+England,Sri Lanka,England,258,9,163,9,away,"Dec 20, 2002",Day and night,VB Series,England,bat first,Australia
+Australia,Sri Lanka,Australia,305,5,163,5,home,"Dec 22, 2002",Day and night,VB Series,Australia,bat first,Australia
+India,New Zealand,New Zealand,109,7,108,7,home,"Dec 26, 2002",Day and night,India tour of New Zealand,New Zealand,field first,New Zealand
+New Zealand,India,New Zealand,254,9,219,9,home,"Dec 29, 2002",Day,India tour of New Zealand,India,field first,New Zealand
+India,New Zealand,New Zealand,109,5,108,5,home,"Jan 1, 2003",Day and night,India tour of New Zealand,India,bat first,New Zealand
+India,New Zealand,New Zealand,123,3,122,3,home,"Jan 4, 2003",Day,India tour of New Zealand,New Zealand,field first,New Zealand
+New Zealand,India,India,169,8,168,8,away,"Jan 8, 2003",Day and night,India tour of New Zealand,New Zealand,bat first,New Zealand
+Sri Lanka,Australia,Sri Lanka,343,5,264,5,away,"Jan 9, 2003",Day and night,VB Series,Australia,field first,Australia
+Australia,England,Australia,271,4,264,4,home,"Jan 11, 2003",Day,VB Series,Australia,bat first,Australia
+New Zealand,India,India,200,9,199,9,away,"Jan 11, 2003",Day and night,India tour of New Zealand,India,field first,New Zealand
+Sri Lanka,England,Sri Lanka,284,7,253,7,away,"Jan 13, 2003",Day and night,VB Series,Sri Lanka,bat first,Australia
+India,New Zealand,New Zealand,125,4,122,4,home,"Jan 14, 2003",Day and night,India tour of New Zealand,New Zealand,field first,New Zealand
+Sri Lanka,Australia,Australia,214,6,211,6,home,"Jan 15, 2003",Day and night,VB Series,Sri Lanka,bat first,Australia
+England,Sri Lanka,England,279,7,260,7,away,"Jan 17, 2003",Day and night,VB Series,England,bat first,Australia
+England,Australia,Australia,153,6,152,6,home,"Jan 19, 2003",Day and night,VB Series,England,bat first,Australia
+Sri Lanka,Australia,Australia,215,1,214,1,home,"Jan 21, 2003",Day and night,VB Series,Sri Lanka,bat first,Australia
+England,Australia,Australia,118,0,117,0,home,"Jan 23, 2003",Day and night,VB Series,England,bat first,Australia
+Australia,England,Australia,229,7,224,7,home,"Jan 25, 2003",Day and night,VB Series,Australia,bat first,Australia
+West Indies,South Africa,West Indies,278,5,275,5,away,"Feb 9, 2003",Day and night,ICC World Cup,West Indies,bat first,South Africa
+Zimbabwe,Namibia,Zimbabwe,340,2,104,2,home,"Feb 10, 2003",Day,ICC World Cup,Namibia,field first,Zimbabwe
+Sri Lanka,New Zealand,Sri Lanka,272,7,225,7,away,"Feb 10, 2003",Day,ICC World Cup,New Zealand,field first,South Africa
+Australia,Pakistan,Australia,310,8,228,8,away,"Feb 11, 2003",Day,ICC World Cup,Pakistan,field first,South Africa
+Canada,Bangladesh,Canada,180,10,120,10,away,"Feb 11, 2003",Day and night,ICC World Cup,Canada,bat first,South Africa
+Kenya,South Africa,South Africa,142,0,140,0,home,"Feb 12, 2003",Day,ICC World Cup,Kenya,bat first,South Africa
+India,Netherlands,India,204,10,136,10,away,"Feb 12, 2003",Day,ICC World Cup,India,bat first,South Africa
+New Zealand,West Indies,New Zealand,241,7,221,7,away,"Feb 13, 2003",Day,ICC World Cup,West Indies,field first,South Africa
+Bangladesh,Sri Lanka,Sri Lanka,126,0,124,0,away,"Feb 14, 2003",Day,ICC World Cup,Sri Lanka,field first,South Africa
+India,Australia,Australia,128,1,125,1,away,"Feb 15, 2003",Day,ICC World Cup,India,bat first,South Africa
+Canada,Kenya,Kenya,198,6,197,6,away,"Feb 15, 2003",Day and night,ICC World Cup,Canada,bat first,South Africa
+Netherlands,England,England,144,4,142,4,away,"Feb 16, 2003",Day,ICC World Cup,England,field first,South Africa
+Pakistan,Namibia,Pakistan,255,9,84,9,away,"Feb 16, 2003",Day,ICC World Cup,Pakistan,bat first,South Africa
+South Africa,New Zealand,New Zealand,229,1,306,1,away,"Feb 16, 2003",Day,ICC World Cup,South Africa,bat first,South Africa
+India,Zimbabwe,India,255,7,172,7,away,"Feb 19, 2003",Day,ICC World Cup,Zimbabwe,field first,Zimbabwe
+Canada,Sri Lanka,Sri Lanka,37,1,36,1,away,"Feb 19, 2003",Day,ICC World Cup,Sri Lanka,field first,South Africa
+England,Namibia,England,272,10,217,10,away,"Feb 19, 2003",Day,ICC World Cup,Namibia,field first,South Africa
+Australia,Netherlands,Australia,170,2,122,2,away,"Feb 20, 2003",Day,ICC World Cup,Netherlands,field first,South Africa
+Bangladesh,South Africa,South Africa,109,0,108,0,home,"Feb 22, 2003",Day,ICC World Cup,South Africa,field first,South Africa
+England,Pakistan,England,246,8,134,8,away,"Feb 22, 2003",Day and night,ICC World Cup,England,bat first,South Africa
+Canada,West Indies,West Indies,206,3,202,3,away,"Feb 23, 2003",Day,ICC World Cup,West Indies,field first,South Africa
+India,Namibia,India,311,2,130,2,away,"Feb 23, 2003",Day,ICC World Cup,Namibia,field first,South Africa
+Kenya,Sri Lanka,Kenya,210,9,157,9,home,"Feb 24, 2003",Day,ICC World Cup,Sri Lanka,field first,Kenya
+Zimbabwe,Australia,Australia,248,3,246,3,away,"Feb 24, 2003",Day,ICC World Cup,Zimbabwe,bat first,Zimbabwe
+Pakistan,Netherlands,Pakistan,253,9,156,9,away,"Feb 25, 2003",Day,ICC World Cup,Netherlands,field first,South Africa
+Bangladesh,New Zealand,New Zealand,199,3,198,3,away,"Feb 26, 2003",Day,ICC World Cup,Bangladesh,bat first,South Africa
+India,England,India,250,9,168,9,away,"Feb 26, 2003",Day and night,ICC World Cup,India,bat first,South Africa
+Australia,Namibia,Australia,301,6,45,6,away,"Feb 27, 2003",Day,ICC World Cup,Australia,bat first,South Africa
+South Africa,Canada,South Africa,254,8,136,8,home,"Feb 27, 2003",Day,ICC World Cup,Canada,field first,South Africa
+Zimbabwe,Netherlands,Zimbabwe,301,8,202,8,home,"Feb 28, 2003",Day,ICC World Cup,Netherlands,field first,Zimbabwe
+Sri Lanka,West Indies,Sri Lanka,228,6,222,6,away,"Feb 28, 2003",Day and night,ICC World Cup,Sri Lanka,bat first,South Africa
+Kenya,Bangladesh,Kenya,217,7,185,7,away,"Mar 1, 2003",Day,ICC World Cup,Kenya,bat first,South Africa
+Pakistan,India,India,276,4,273,4,away,"Mar 1, 2003",Day,ICC World Cup,Pakistan,bat first,South Africa
+England,Australia,Australia,208,8,204,8,away,"Mar 2, 2003",Day,ICC World Cup,England,bat first,South Africa
+Canada,New Zealand,New Zealand,197,5,196,5,away,"Mar 3, 2003",Day,ICC World Cup,New Zealand,field first,South Africa
+Netherlands,Namibia,Netherlands,314,4,250,4,away,"Mar 3, 2003",Day,ICC World Cup,Netherlands,bat first,South Africa
+West Indies,Kenya,West Indies,246,7,104,7,away,"Mar 4, 2003",Day,ICC World Cup,West Indies,bat first,South Africa
+Australia,Sri Lanka,Australia,319,5,223,5,away,"Mar 7, 2003",Day,ICC World Cup,Australia,bat first,South Africa
+Kenya,India,India,226,4,225,4,away,"Mar 7, 2003",Day and night,ICC World Cup,Kenya,bat first,South Africa
+Zimbabwe,New Zealand,New Zealand,253,4,252,4,away,"Mar 8, 2003",Day,ICC World Cup,Zimbabwe,bat first,South Africa
+India,Sri Lanka,India,292,6,109,6,away,"Mar 10, 2003",Day,ICC World Cup,Sri Lanka,field first,South Africa
+Australia,New Zealand,Australia,208,9,112,9,away,"Mar 11, 2003",Day,ICC World Cup,New Zealand,field first,South Africa
+Zimbabwe,Kenya,Kenya,135,3,133,3,away,"Mar 12, 2003",Day,ICC World Cup,Zimbabwe,bat first,South Africa
+New Zealand,India,India,150,3,146,3,away,"Mar 14, 2003",Day,ICC World Cup,India,field first,South Africa
+Sri Lanka,Zimbabwe,Sri Lanka,256,5,182,5,away,"Mar 15, 2003",Day,ICC World Cup,Sri Lanka,bat first,South Africa
+Kenya,Australia,Australia,178,5,174,5,away,"Mar 15, 2003",Day and night,ICC World Cup,Australia,field first,South Africa
+Australia,Sri Lanka,Australia,212,7,123,7,away,"Mar 18, 2003",Day,ICC World Cup,Australia,bat first,South Africa
+India,Kenya,India,270,4,179,4,away,"Mar 20, 2003",Day and night,ICC World Cup,India,bat first,South Africa
+Australia,India,Australia,359,2,234,2,away,"Mar 23, 2003",Day,ICC World Cup,India,field first,South Africa
+Pakistan,Zimbabwe,Pakistan,278,7,210,7,away,"Apr 3, 2003",Day and night,Cherry Blossom Sharjah Cup,Pakistan,bat first,United Arab Emirates
+Sri Lanka,Pakistan,Pakistan,225,3,223,3,away,"Apr 4, 2003",Day and night,Cherry Blossom Sharjah Cup,Sri Lanka,bat first,United Arab Emirates
+Kenya,Zimbabwe,Zimbabwe,230,5,225,5,away,"Apr 5, 2003",Day and night,Cherry Blossom Sharjah Cup,Kenya,bat first,United Arab Emirates
+Sri Lanka,Kenya,Sri Lanka,256,5,127,5,away,"Apr 6, 2003",Day and night,Cherry Blossom Sharjah Cup,Sri Lanka,bat first,United Arab Emirates
+Sri Lanka,Zimbabwe,Zimbabwe,194,6,193,6,away,"Apr 7, 2003",Day and night,Cherry Blossom Sharjah Cup,Sri Lanka,bat first,United Arab Emirates
+Pakistan,Kenya,Pakistan,286,8,143,8,away,"Apr 8, 2003",Day and night,Cherry Blossom Sharjah Cup,Pakistan,bat first,United Arab Emirates
+Zimbabwe,Pakistan,Pakistan,172,2,168,2,away,"Apr 10, 2003",Day and night,Cherry Blossom Sharjah Cup,Zimbabwe,bat first,United Arab Emirates
+India,Bangladesh,India,276,10,76,10,away,"Apr 11, 2003",Day and night,TVS Cup (Bangladesh),India,bat first,Bangladesh
+India,South Africa,India,307,4,154,4,away,"Apr 13, 2003",Day and night,TVS Cup (Bangladesh),India,bat first,Bangladesh
+South Africa,Bangladesh,South Africa,294,3,211,3,away,"Apr 14, 2003",Day and night,TVS Cup (Bangladesh),South Africa,bat first,Bangladesh
+Bangladesh,India,India,208,6,207,6,away,"Apr 16, 2003",Day and night,TVS Cup (Bangladesh),Bangladesh,bat first,Bangladesh
+South Africa,Bangladesh,South Africa,261,5,168,5,away,"Apr 17, 2003",Day and night,TVS Cup (Bangladesh),South Africa,bat first,Bangladesh
+India,South Africa,South Africa,216,5,215,5,away,"Apr 18, 2003",Day and night,TVS Cup (Bangladesh),India,bat first,Bangladesh
+Pakistan,Sri Lanka,Pakistan,199,8,120,8,away,"May 10, 2003",Day,Bank Alfalah Cup,Sri Lanka,field first,Sri Lanka
+Pakistan,New Zealand,New Zealand,117,3,116,3,away,"May 11, 2003",Day,Bank Alfalah Cup,New Zealand,field first,Sri Lanka
+New Zealand,Sri Lanka,Sri Lanka,143,5,139,5,home,"May 13, 2003",Day,Bank Alfalah Cup,Sri Lanka,field first,Sri Lanka
+Australia,West Indies,Australia,270,5,205,5,away,"May 17, 2003",Day,Australia tour of West Indies,West Indies,field first,West Indies
+Sri Lanka,Pakistan,Sri Lanka,172,10,160,10,home,"May 18, 2003",Day,Bank Alfalah Cup,Pakistan,field first,Sri Lanka
+West Indies,Australia,Australia,166,2,163,2,away,"May 18, 2003",Day,Australia tour of West Indies,West Indies,bat first,West Indies
+New Zealand,Sri Lanka,New Zealand,156,8,147,8,away,"May 19, 2003",Day,Bank Alfalah Cup,Sri Lanka,field first,Sri Lanka
+Pakistan,New Zealand,Pakistan,203,9,181,9,away,"May 20, 2003",Day,Bank Alfalah Cup,New Zealand,field first,Sri Lanka
+Australia,West Indies,Australia,258,4,233,4,away,"May 21, 2003",Day,Australia tour of West Indies,West Indies,field first,West Indies
+Pakistan,New Zealand,New Zealand,200,6,198,6,away,"May 23, 2003",Day,Bank Alfalah Cup,Pakistan,bat first,Sri Lanka
+Australia,West Indies,Australia,286,5,219,5,away,"May 24, 2003",Day,Australia tour of West Indies,Australia,bat first,West Indies
+West Indies,Australia,West Indies,290,5,251,5,home,"May 25, 2003",Day,Australia tour of West Indies,West Indies,bat first,West Indies
+Australia,West Indies,West Indies,254,7,252,7,away,"May 30, 2003",Day,Australia tour of West Indies,Australia,bat first,Grenada
+Australia,West Indies,West Indies,249,1,247,1,away,"Jun 1, 2003",Day,Australia tour of West Indies,Australia,bat first,Grenada
+Sri Lanka,West Indies,Sri Lanka,201,10,146,10,away,"Jun 7, 2003",Day,Sri Lanka tour of West Indies,West Indies,field first,West Indies
+West Indies,Sri Lanka,Sri Lanka,313,6,312,6,away,"Jun 8, 2003",Day,Sri Lanka tour of West Indies,West Indies,bat first,West Indies
+Sri Lanka,West Indies,West Indies,160,4,191,4,home,"Jun 11, 2003",Day,Sri Lanka tour of West Indies,West Indies,field first,West Indies
+England,Pakistan,Pakistan,208,8,204,8,away,"Jun 17, 2003",Day and night,Pakistan tour of England and Scotland,England,bat first,England
+Pakistan,England,England,189,3,185,3,home,"Jun 20, 2003",Day,Pakistan tour of England and Scotland,Pakistan,bat first,England
+Pakistan,England,England,231,6,229,6,home,"Jun 22, 2003",Day,Pakistan tour of England and Scotland,England,field first,England
+England,Zimbabwe,Zimbabwe,195,6,191,6,away,"Jun 26, 2003",Day,NatWest Series,Zimbabwe,field first,England
+South Africa,England,England,265,4,264,4,home,"Jun 28, 2003",Day,NatWest Series,South Africa,bat first,England
+South Africa,Zimbabwe,South Africa,272,5,226,5,away,"Jun 29, 2003",Day,NatWest Series,Zimbabwe,field first,England
+England,South Africa,South Africa,227,3,223,3,away,"Jul 3, 2003",Day and night,NatWest Series,England,bat first,England
+Zimbabwe,South Africa,South Africa,175,1,174,1,away,"Jul 5, 2003",Day,NatWest Series,South Africa,field first,Wales
+Zimbabwe,England,England,95,4,92,4,home,"Jul 6, 2003",Day,NatWest Series,England,field first,England
+South Africa,England,England,199,6,198,6,home,"Jul 8, 2003",Day and night,NatWest Series,South Africa,bat first,England
+Zimbabwe,South Africa,South Africa,174,3,173,3,away,"Jul 10, 2003",Day,NatWest Series,Zimbabwe,bat first,England
+South Africa,England,England,111,3,107,3,home,"Jul 12, 2003",Day,NatWest Series,England,field first,England
+Bangladesh,Australia,Australia,107,2,105,2,home,"Aug 2, 2003",Day,Bangladesh tour of Australia,Australia,field first,Australia
+Bangladesh,Australia,Australia,148,1,147,1,home,"Aug 3, 2003",Day,Bangladesh tour of Australia,Bangladesh,bat first,Australia
+Australia,Bangladesh,Australia,254,7,142,7,home,"Aug 6, 2003",Day,Bangladesh tour of Australia,Australia,bat first,Australia
+Pakistan,Bangladesh,Pakistan,323,3,186,3,home,"Sep 9, 2003",Day,Bangladesh tour of Pakistan,Pakistan,bat first,Pakistan
+Pakistan,Bangladesh,Pakistan,243,8,169,8,home,"Sep 12, 2003",Day,Bangladesh tour of Pakistan,Pakistan,bat first,Pakistan
+Pakistan,Bangladesh,Pakistan,257,9,201,9,home,"Sep 15, 2003",Day and night,Bangladesh tour of Pakistan,Pakistan,bat first,Pakistan
+Bangladesh,Pakistan,Pakistan,226,5,222,5,home,"Sep 18, 2003",Day and night,Bangladesh tour of Pakistan,Bangladesh,bat first,Pakistan
+Pakistan,Bangladesh,Pakistan,302,5,244,5,home,"Sep 21, 2003",Day and night,Bangladesh tour of Pakistan,Pakistan,bat first,Pakistan
+Pakistan,South Africa,Pakistan,277,6,269,6,home,"Oct 3, 2003",Day and night,South Africa tour of Pakistan,Pakistan,bat first,Pakistan
+Pakistan,South Africa,Pakistan,267,7,225,7,home,"Oct 5, 2003",Day and night,South Africa tour of Pakistan,South Africa,field first,Pakistan
+Pakistan,South Africa,South Africa,221,6,243,6,away,"Oct 7, 2003",Day,South Africa tour of Pakistan,Pakistan,bat first,Pakistan
+Pakistan,South Africa,South Africa,158,4,157,4,away,"Oct 10, 2003",Day and night,South Africa tour of Pakistan,Pakistan,bat first,Pakistan
+Pakistan,South Africa,South Africa,193,3,192,3,away,"Oct 12, 2003",Day and night,South Africa tour of Pakistan,Pakistan,bat first,Pakistan
+India,Australia,India,283,5,246,5,home,"Oct 26, 2003",Day and night,TVS Cup (India),India,bat first,India
+New Zealand,Australia,Australia,101,2,97,2,away,"Oct 29, 2003",Day,TVS Cup (India),New Zealand,bat first,India
+Australia,India,Australia,286,8,209,8,away,"Nov 1, 2003",Day and night,TVS Cup (India),Australia,bat first,India
+New Zealand,Australia,Australia,259,8,258,8,away,"Nov 3, 2003",Day,TVS Cup (India),Australia,field first,India
+India,New Zealand,New Zealand,249,6,246,6,away,"Nov 6, 2003",Day and night,TVS Cup (India),India,bat first,India
+Bangladesh,England,England,144,3,143,3,away,"Nov 7, 2003",Day,England tour of Bangladesh,Bangladesh,bat first,Bangladesh
+Australia,New Zealand,Australia,225,7,181,7,away,"Nov 9, 2003",Day,TVS Cup (India),New Zealand,field first,India
+Bangladesh,England,England,137,3,134,3,away,"Nov 10, 2003",Day and night,England tour of Bangladesh,Bangladesh,bat first,Bangladesh
+Bangladesh,England,England,185,3,182,3,away,"Nov 12, 2003",Day and night,England tour of Bangladesh,Bangladesh,bat first,Bangladesh
+Australia,India,Australia,347,2,286,2,away,"Nov 12, 2003",Day and night,TVS Cup (India),Australia,bat first,India
+India,New Zealand,India,353,5,208,5,home,"Nov 15, 2003",Day and night,TVS Cup (India),India,bat first,India
+England,Sri Lanka,Sri Lanka,89,0,88,0,home,"Nov 18, 2003",Day and night,England tour of Sri Lanka,England,bat first,Sri Lanka
+Australia,India,Australia,235,5,198,5,away,"Nov 18, 2003",Day and night,TVS Cup (India),Australia,bat first,India
+West Indies,Zimbabwe,West Indies,347,6,173,6,away,"Nov 22, 2003",Day,West Indies tour of Zimbabwe,West Indies,bat first,Zimbabwe
+West Indies,Zimbabwe,Zimbabwe,128,4,125,4,home,"Nov 23, 2003",Day,West Indies tour of Zimbabwe,West Indies,bat first,Zimbabwe
+Zimbabwe,West Indies,Zimbabwe,229,5,208,5,home,"Nov 26, 2003",Day,West Indies tour of Zimbabwe,West Indies,field first,Zimbabwe
+West Indies,Zimbabwe,West Indies,256,3,150,3,away,"Nov 29, 2003",Day,West Indies tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+New Zealand,Pakistan,Pakistan,292,7,291,7,home,"Nov 29, 2003",Day and night,New Zealand tour of Pakistan,New Zealand,bat first,Pakistan
+Zimbabwe,West Indies,West Indies,197,2,196,2,away,"Nov 30, 2003",Day,West Indies tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Pakistan,New Zealand,Pakistan,281,6,157,6,home,"Dec 1, 2003",Day and night,New Zealand tour of Pakistan,Pakistan,bat first,Pakistan
+Pakistan,New Zealand,Pakistan,314,7,263,7,home,"Dec 3, 2003",Day,New Zealand tour of Pakistan,Pakistan,bat first,Pakistan
+New Zealand,Pakistan,Pakistan,184,3,183,3,home,"Dec 5, 2003",Day and night,New Zealand tour of Pakistan,New Zealand,bat first,Pakistan
+Pakistan,New Zealand,Pakistan,277,4,228,4,home,"Dec 7, 2003",Day and night,New Zealand tour of Pakistan,Pakistan,bat first,Pakistan
+Pakistan,New Zealand,New Zealand,230,6,229,6,home,"Jan 3, 2004",Day,Pakistan tour of New Zealand,New Zealand,field first,New Zealand
+New Zealand,Pakistan,Pakistan,236,4,235,4,away,"Jan 7, 2004",Day,Pakistan tour of New Zealand,Pakistan,field first,New Zealand
+Australia,India,Australia,288,10,270,10,home,"Jan 9, 2004",Day and night,VB Series,Australia,bat first,Australia
+Pakistan,New Zealand,New Zealand,259,3,255,3,home,"Jan 10, 2004",Day,Pakistan tour of New Zealand,New Zealand,field first,New Zealand
+Australia,Zimbabwe,Australia,225,8,126,8,home,"Jan 11, 2004",Day and night,VB Series,Australia,bat first,Australia
+Pakistan,New Zealand,New Zealand,127,2,126,2,home,"Jan 14, 2004",Day,Pakistan tour of New Zealand,New Zealand,field first,New Zealand
+Zimbabwe,India,India,211,3,208,3,away,"Jan 14, 2004",Day,VB Series,Zimbabwe,bat first,Australia
+Australia,Zimbabwe,Australia,344,7,196,7,home,"Jan 16, 2004",Day,VB Series,Australia,bat first,Australia
+New Zealand,Pakistan,New Zealand,307,8,303,8,home,"Jan 17, 2004",Day and night,Pakistan tour of New Zealand,New Zealand,bat first,New Zealand
+India,Australia,India,303,4,284,4,away,"Jan 18, 2004",Day and night,VB Series,India,bat first,Australia
+India,Zimbabwe,India,255,6,231,6,away,"Jan 20, 2004",Day and night,VB Series,India,bat first,Australia
+India,Australia,Australia,225,8,296,8,home,"Jan 22, 2004",Day and night,VB Series,India,bat first,Australia
+India,Zimbabwe,India,280,7,277,7,away,"Jan 24, 2004",Day and night,VB Series,India,bat first,Australia
+South Africa,West Indies,South Africa,263,4,54,4,home,"Jan 25, 2004",Day and night,West Indies tour of South Africa,South Africa,bat first,South Africa
+Australia,Zimbabwe,Australia,279,7,266,7,home,"Jan 26, 2004",Day and night,VB Series,Australia,bat first,Australia
+South Africa,West Indies,South Africa,179,7,163,7,home,"Jan 28, 2004",Day and night,West Indies tour of South Africa,South Africa,bat first,South Africa
+India,Australia,Australia,204,5,203,5,home,"Feb 1, 2004",Day,VB Series,India,bat first,Australia
+South Africa,West Indies,West Indies,300,3,297,3,away,"Feb 1, 2004",Day,West Indies tour of South Africa,South Africa,bat first,South Africa
+Zimbabwe,India,India,136,6,135,6,away,"Feb 3, 2004",Day and night,VB Series,Zimbabwe,bat first,Australia
+West Indies,South Africa,South Africa,310,6,304,6,home,"Feb 4, 2004",Day and night,West Indies tour of South Africa,West Indies,bat first,South Africa
+India,Australia,Australia,224,3,222,3,home,"Feb 6, 2004",Day and night,VB Series,India,bat first,Australia
+Australia,India,Australia,359,5,151,5,home,"Feb 8, 2004",Day and night,VB Series,Australia,bat first,Australia
+New Zealand,South Africa,South Africa,226,5,225,5,away,"Feb 13, 2004",Day and night,South Africa tour of New Zealand,South Africa,field first,New Zealand
+South Africa,New Zealand,New Zealand,255,5,253,5,home,"Feb 17, 2004",Day and night,South Africa tour of New Zealand,South Africa,bat first,New Zealand
+New Zealand,South Africa,New Zealand,254,5,249,5,home,"Feb 20, 2004",Day and night,South Africa tour of New Zealand,South Africa,field first,New Zealand
+Australia,Sri Lanka,Australia,262,6,178,6,away,"Feb 20, 2004",Day and night,Australia tour of Sri Lanka,Australia,bat first,Sri Lanka
+Sri Lanka,Australia,Sri Lanka,245,10,244,10,home,"Feb 22, 2004",Day,Australia tour of Sri Lanka,Sri Lanka,bat first,Sri Lanka
+South Africa,New Zealand,New Zealand,264,4,259,4,home,"Feb 25, 2004",Day,South Africa tour of New Zealand,New Zealand,field first,New Zealand
+Sri Lanka,Australia,Australia,227,5,226,5,away,"Feb 25, 2004",Day and night,Australia tour of Sri Lanka,Sri Lanka,bat first,Sri Lanka
+Australia,Sri Lanka,Australia,233,10,193,10,away,"Feb 27, 2004",Day and night,Australia tour of Sri Lanka,Australia,bat first,Sri Lanka
+New Zealand,South Africa,New Zealand,193,8,175,8,home,"Feb 29, 2004",Day,South Africa tour of New Zealand,South Africa,field first,New Zealand
+Australia,Sri Lanka,Sri Lanka,202,7,198,7,home,"Feb 29, 2004",Day,Australia tour of Sri Lanka,Australia,bat first,Sri Lanka
+South Africa,New Zealand,New Zealand,190,5,186,5,home,"Mar 2, 2004",Day,South Africa tour of New Zealand,South Africa,bat first,New Zealand
+Bangladesh,Zimbabwe,Bangladesh,238,7,230,7,away,"Mar 10, 2004",Day,Bangladesh tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Zimbabwe,Bangladesh,Zimbabwe,242,8,228,8,home,"Mar 12, 2004",Day,Bangladesh tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+India,Pakistan,India,349,7,344,7,away,"Mar 13, 2004",Day,India tour of Pakistan,Pakistan,field first,Pakistan
+Bangladesh,Zimbabwe,Zimbabwe,185,7,183,7,home,"Mar 14, 2004",Day,Bangladesh tour of Zimbabwe,Bangladesh,bat first,Zimbabwe
+Pakistan,India,Pakistan,329,6,317,6,home,"Mar 16, 2004",Day and night,India tour of Pakistan,Pakistan,bat first,Pakistan
+India,Pakistan,Pakistan,247,6,244,6,home,"Mar 19, 2004",Day,India tour of Pakistan,Pakistan,field first,Pakistan
+Pakistan,India,India,294,5,293,5,away,"Mar 21, 2004",Day and night,India tour of Pakistan,Pakistan,bat first,Pakistan
+India,Pakistan,India,293,7,253,7,away,"Mar 24, 2004",Day and night,India tour of Pakistan,Pakistan,field first,Pakistan
+West Indies,England,England,157,8,156,8,away,"Apr 18, 2004",Day,England tour of West Indies,England,field first,Guyana
+Zimbabwe,Sri Lanka,Sri Lanka,144,4,211,4,away,"Apr 20, 2004",Day,Sri Lanka tour of Zimbabwe,Sri Lanka,field first,Zimbabwe
+Zimbabwe,Sri Lanka,Sri Lanka,139,1,136,1,away,"Apr 22, 2004",Day,Sri Lanka tour of Zimbabwe,Sri Lanka,field first,Zimbabwe
+Zimbabwe,Sri Lanka,Sri Lanka,40,1,35,1,away,"Apr 25, 2004",Day,Sri Lanka tour of Zimbabwe,Sri Lanka,field first,Zimbabwe
+Sri Lanka,Zimbabwe,Sri Lanka,223,9,151,9,away,"Apr 27, 2004",Day,Sri Lanka tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Sri Lanka,Zimbabwe,Sri Lanka,246,7,221,7,away,"Apr 29, 2004",Day,Sri Lanka tour of Zimbabwe,Sri Lanka,bat first,Zimbabwe
+England,West Indies,West Indies,284,5,281,5,home,"May 1, 2004",Day,England tour of West Indies,West Indies,field first,West Indies
+England,West Indies,West Indies,282,6,280,6,home,"May 2, 2004",Day,England tour of West Indies,West Indies,field first,West Indies
+West Indies,England,England,262,5,261,5,away,"May 5, 2004",Day,England tour of West Indies,England,field first,West Indies
+Bangladesh,West Indies,West Indies,145,9,144,9,home,"May 15, 2004",Day,Bangladesh tour of West Indies,West Indies,field first,West Indies
+West Indies,Bangladesh,West Indies,124,7,101,7,home,"May 16, 2004",Day,Bangladesh tour of West Indies,Bangladesh,field first,West Indies
+Bangladesh,West Indies,West Indies,119,3,118,3,away,"May 19, 2004",Day,Bangladesh tour of West Indies,Bangladesh,bat first,Grenada
+Zimbabwe,Australia,Australia,207,3,205,3,away,"May 25, 2004",Day,Australia tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Australia,Zimbabwe,Australia,323,8,184,8,away,"May 27, 2004",Day,Australia tour of Zimbabwe,Zimbabwe,field first,Zimbabwe
+Zimbabwe,Australia,Australia,199,2,196,2,away,"May 29, 2004",Day,Australia tour of Zimbabwe,Australia,field first,Zimbabwe
+England,West Indies,West Indies,148,3,147,3,away,"Jun 27, 2004",Day,NatWest Series,West Indies,field first,England
+England,New Zealand,New Zealand,103,3,101,3,away,"Jun 29, 2004",Day and night,NatWest Series,New Zealand,field first,England
+West Indies,England,England,160,3,159,3,home,"Jul 1, 2004",Day and night,NatWest Series,England,field first,England
+West Indies,New Zealand,New Zealand,220,5,216,5,away,"Jul 3, 2004",Day,NatWest Series,New Zealand,field first,Wales
+England,New Zealand,New Zealand,241,4,237,4,away,"Jul 4, 2004",Day,NatWest Series,New Zealand,field first,England
+England,West Indies,West Indies,286,3,285,3,away,"Jul 6, 2004",Day,NatWest Series,West Indies,field first,England
+New Zealand,West Indies,New Zealand,266,10,159,10,away,"Jul 10, 2004",Day,NatWest Series,West Indies,field first,England
+Bangladesh,Hong Kong,Bangladesh,221,9,105,9,away,"Jul 16, 2004",Day,Asia Cup,Hong Kong,field first,Sri Lanka
+India,United Arab Emirates,India,260,6,144,6,away,"Jul 16, 2004",Day and night,Asia Cup,India,bat first,Sri Lanka
+Pakistan,Bangladesh,Pakistan,257,6,181,6,away,"Jul 17, 2004",Day,Asia Cup,Pakistan,bat first,Sri Lanka
+Sri Lanka,United Arab Emirates,Sri Lanka,239,10,123,10,home,"Jul 17, 2004",Day and night,Asia Cup,Sri Lanka,bat first,Sri Lanka
+Pakistan,Hong Kong,Pakistan,343,5,165,5,away,"Jul 18, 2004",Day,Asia Cup,Pakistan,bat first,Sri Lanka
+Sri Lanka,India,Sri Lanka,282,4,270,4,home,"Jul 18, 2004",Day and night,Asia Cup,Sri Lanka,bat first,Sri Lanka
+Bangladesh,India,India,178,2,177,2,away,"Jul 21, 2004",Day,Asia Cup,India,field first,Sri Lanka
+Pakistan,Sri Lanka,Sri Lanka,123,3,122,3,home,"Jul 21, 2004",Day and night,Asia Cup,Pakistan,bat first,Sri Lanka
+Bangladesh,Sri Lanka,Sri Lanka,191,0,190,0,home,"Jul 23, 2004",Day and night,Asia Cup,Bangladesh,bat first,Sri Lanka
+Pakistan,India,Pakistan,300,9,241,9,away,"Jul 25, 2004",Day and night,Asia Cup,Pakistan,bat first,Sri Lanka
+India,Sri Lanka,India,271,6,267,6,away,"Jul 27, 2004",Day and night,Asia Cup,India,bat first,Sri Lanka
+Bangladesh,Pakistan,Pakistan,167,4,166,4,away,"Jul 29, 2004",Day and night,Asia Cup,Bangladesh,bat first,Sri Lanka
+Sri Lanka,India,Sri Lanka,228,9,203,9,home,"Aug 1, 2004",Day and night,Asia Cup,Sri Lanka,bat first,Sri Lanka
+South Africa,Sri Lanka,Sri Lanka,265,7,263,7,home,"Aug 20, 2004",Day and night,South Africa tour of Sri Lanka,South Africa,bat first,Sri Lanka
+Pakistan,India,Pakistan,192,6,127,6,away,"Aug 21, 2004",Day,Videocon Cup,India,field first,Netherlands
+Sri Lanka,South Africa,Sri Lanka,213,9,176,9,home,"Aug 22, 2004",Day,South Africa tour of Sri Lanka,Sri Lanka,bat first,Sri Lanka
+South Africa,Sri Lanka,Sri Lanka,192,6,191,6,home,"Aug 25, 2004",Day and night,South Africa tour of Sri Lanka,South Africa,bat first,Sri Lanka
+South Africa,Sri Lanka,Sri Lanka,236,3,235,3,home,"Aug 28, 2004",Day,South Africa tour of Sri Lanka,Sri Lanka,field first,Sri Lanka
+Australia,Pakistan,Australia,192,7,175,7,away,"Aug 28, 2004",Day,Videocon Cup,Australia,bat first,Netherlands
+Sri Lanka,South Africa,Sri Lanka,308,8,259,8,home,"Aug 31, 2004",Day,South Africa tour of Sri Lanka,South Africa,field first,Sri Lanka
+India,England,England,171,3,170,3,home,"Sep 1, 2004",Day,India tour of England,England,field first,England
+England,India,England,307,5,237,5,home,"Sep 3, 2004",Day,India tour of England,India,field first,England
+Australia,Pakistan,Australia,269,6,259,6,away,"Sep 4, 2004",Day,Australia tour of England,Pakistan,field first,England
+India,England,India,204,10,181,10,away,"Sep 5, 2004",Day,India tour of England,India,bat first,England
+England,Zimbabwe,England,299,7,147,7,home,"Sep 10-11, 2004",Day,ICC Champions Trophy,Zimbabwe,field first,England
+New Zealand,United States of America,New Zealand,347,4,137,4,away,"Sep 10, 2004",Day,ICC Champions Trophy,United States of America,field first,England
+India,Kenya,India,290,4,192,4,away,"Sep 11, 2004",Day,ICC Champions Trophy,Kenya,field first,England
+Bangladesh,South Africa,South Africa,94,1,93,1,away,"Sep 12, 2004",Day,ICC Champions Trophy,Bangladesh,bat first,England
+United States of America,Australia,Australia,66,1,65,1,away,"Sep 13, 2004",Day,ICC Champions Trophy,Australia,field first,England
+Zimbabwe,Sri Lanka,Sri Lanka,195,6,191,6,away,"Sep 14, 2004",Day,ICC Champions Trophy,Sri Lanka,field first,England
+Kenya,Pakistan,Pakistan,95,3,94,3,away,"Sep 14-15, 2004",Day,ICC Champions Trophy,Pakistan,field first,England
+West Indies,Bangladesh,West Indies,269,3,131,3,away,"Sep 15, 2004",Day,ICC Champions Trophy,Bangladesh,field first,England
+New Zealand,Australia,Australia,199,3,198,3,away,"Sep 16, 2004",Day,ICC Champions Trophy,Australia,field first,England
+England,Sri Lanka,England,251,7,95,7,home,"Sep 17-18, 2004",Day,ICC Champions Trophy,Sri Lanka,field first,England
+South Africa,West Indies,West Indies,249,5,246,5,away,"Sep 18-19, 2004",Day,ICC Champions Trophy,West Indies,field first,England
+India,Pakistan,Pakistan,201,7,200,7,away,"Sep 19, 2004",Day,ICC Champions Trophy,Pakistan,field first,England
+Australia,England,England,262,4,259,4,home,"Sep 21, 2004",Day,ICC Champions Trophy,England,field first,England
+Pakistan,West Indies,West Indies,132,3,131,3,away,"Sep 22, 2004",Day,ICC Champions Trophy,Pakistan,bat first,England
+England,West Indies,West Indies,218,8,217,8,away,"Sep 25, 2004",Day,ICC Champions Trophy,West Indies,field first,England
+Pakistan,Zimbabwe,Pakistan,292,7,148,7,home,"Sep 30, 2004",Day,Paktel Cup,Pakistan,bat first,Pakistan
+Zimbabwe,Pakistan,Pakistan,258,7,252,7,home,"Oct 3, 2004",Day,Paktel Cup,Pakistan,field first,Pakistan
+Sri Lanka,Pakistan,Pakistan,233,2,232,2,home,"Oct 6, 2004",Day,Paktel Cup,Sri Lanka,bat first,Pakistan
+Zimbabwe,Sri Lanka,Sri Lanka,108,3,104,3,away,"Oct 9, 2004",Day,Paktel Cup,Sri Lanka,field first,Pakistan
+Sri Lanka,Pakistan,Pakistan,297,4,293,4,home,"Oct 14, 2004",Day and night,Paktel Cup,Pakistan,field first,Pakistan
+Sri Lanka,Pakistan,Sri Lanka,287,7,168,7,away,"Oct 16, 2004",Day and night,Paktel Cup,Pakistan,field first,Pakistan
+New Zealand,Bangladesh,New Zealand,224,10,86,10,away,"Nov 2, 2004",Day,New Zealand tour of Bangladesh,New Zealand,bat first,Bangladesh
+Bangladesh,New Zealand,New Zealand,148,7,146,7,away,"Nov 5, 2004",Day and night,New Zealand tour of Bangladesh,Bangladesh,bat first,Bangladesh
+New Zealand,Bangladesh,New Zealand,250,7,167,7,away,"Nov 7, 2004",Day and night,New Zealand tour of Bangladesh,New Zealand,bat first,Bangladesh
+India,Pakistan,Pakistan,293,4,292,4,away,"Nov 13, 2004",Day and night,Pakistan tour of India,India,bat first,India
+Zimbabwe,England,England,197,5,195,5,away,"Nov 28, 2004",Day,England tour of Zimbabwe,England,field first,Zimbabwe
+England,Zimbabwe,England,263,6,102,6,away,"Dec 1, 2004",Day,England tour of Zimbabwe,England,bat first,Zimbabwe
+Zimbabwe,England,England,239,2,238,2,away,"Dec 4, 2004",Day,England tour of Zimbabwe,Zimbabwe,bat first,Zimbabwe
+Australia,New Zealand,New Zealand,247,6,246,6,away,"Dec 5, 2004",Day and night,New Zealand tour of Australia,New Zealand,field first,Australia
+England,Zimbabwe,England,261,6,187,6,away,"Dec 5, 2004",Day,England tour of Zimbabwe,England,bat first,Zimbabwe
+Australia,New Zealand,Australia,261,7,244,7,home,"Dec 8, 2004",Day and night,New Zealand tour of Australia,Australia,bat first,Australia
+India,Bangladesh,India,245,8,234,8,away,"Dec 23, 2004",Day,India tour of Bangladesh,Bangladesh,field first,Bangladesh
+Sri Lanka,New Zealand,New Zealand,144,3,141,3,home,"Dec 26, 2004",Day,Sri Lanka tour of New Zealand,New Zealand,field first,New Zealand
+Bangladesh,India,Bangladesh,229,9,214,9,home,"Dec 26, 2004",Day and night,India tour of Bangladesh,Bangladesh,bat first,Bangladesh
+India,Bangladesh,India,348,5,257,5,away,"Dec 27, 2004",Day and night,India tour of Bangladesh,India,bat first,Bangladesh
+Australia,West Indies,Australia,301,4,185,4,home,"Jan 14, 2005",Day and night,VB Series,Australia,bat first,Australia
+Pakistan,Australia,Australia,253,6,272,6,home,"Jan 16, 2005",Day,VB Series,Pakistan,bat first,Australia
+West Indies,Pakistan,Pakistan,274,4,273,4,away,"Jan 19, 2005",Day,VB Series,Pakistan,field first,Australia
+Zimbabwe,Bangladesh,Zimbabwe,251,8,229,8,away,"Jan 20, 2005",Day and night,Zimbabwe tour of Bangladesh,Zimbabwe,bat first,Bangladesh
+Pakistan,Australia,Australia,167,1,163,1,home,"Jan 23, 2005",Day and night,VB Series,Australia,field first,Australia
+Zimbabwe,Bangladesh,Zimbabwe,237,5,206,5,away,"Jan 24, 2005",Day,Zimbabwe tour of Bangladesh,Zimbabwe,bat first,Bangladesh
+Bangladesh,Zimbabwe,Bangladesh,244,9,204,9,home,"Jan 26, 2005",Day,Zimbabwe tour of Bangladesh,Bangladesh,bat first,Bangladesh
+Australia,West Indies,Australia,269,8,196,8,home,"Jan 26, 2005",Day and night,VB Series,Australia,bat first,Australia
+West Indies,Pakistan,West Indies,339,4,281,4,away,"Jan 28, 2005",Day,VB Series,Pakistan,field first,Australia
+Bangladesh,Zimbabwe,Bangladesh,247,9,189,9,home,"Jan 29, 2005",Day and night,Zimbabwe tour of Bangladesh,Bangladesh,bat first,Bangladesh
+Australia,Pakistan,Pakistan,268,7,265,7,away,"Jan 30, 2005",Day and night,VB Series,Australia,bat first,Australia
+South Africa,England,England,103,3,175,3,away,"Jan 30, 2005",Day,England tour of South Africa,England,field first,South Africa
+Zimbabwe,Bangladesh,Bangladesh,202,2,198,2,home,"Jan 31, 2005",Day,Zimbabwe tour of Bangladesh,Zimbabwe,bat first,Bangladesh
+Pakistan,West Indies,Pakistan,307,8,277,8,away,"Feb 1, 2005",Day,VB Series,West Indies,field first,Australia
+Australia,Pakistan,Australia,237,10,219,10,home,"Feb 4, 2005",Day and night,VB Series,Australia,bat first,Australia
+England,South Africa,South Africa,270,7,267,7,home,"Feb 4, 2005",Day and night,England tour of South Africa,England,bat first,South Africa
+Australia,Pakistan,Australia,239,9,208,9,home,"Feb 6, 2005",Day and night,VB Series,Australia,bat first,Australia
+South Africa,England,South Africa,291,5,183,5,home,"Feb 6, 2005",Day,England tour of South Africa,England,field first,South Africa
+South Africa,England,South Africa,311,7,304,7,home,"Feb 9, 2005",Day and night,England tour of South Africa,South Africa,bat first,South Africa
+England,South Africa,South Africa,241,7,240,7,home,"Feb 13, 2005",Day,England tour of South Africa,South Africa,field first,South Africa
+Australia,New Zealand,Australia,236,7,226,7,away,"Feb 19, 2005",Day and night,Australia tour of New Zealand,Australia,bat first,New Zealand
+Australia,New Zealand,Australia,314,6,208,6,away,"Feb 22, 2005",Day and night,Australia tour of New Zealand,New Zealand,field first,New Zealand
+South Africa,Zimbabwe,South Africa,301,7,136,7,home,"Feb 25, 2005",Day and night,Zimbabwe tour of South Africa,Zimbabwe,field first,South Africa
+Australia,New Zealand,Australia,264,5,178,5,away,"Feb 26, 2005",Day and night,Australia tour of New Zealand,Australia,bat first,New Zealand
+South Africa,Zimbabwe,South Africa,329,6,198,6,home,"Feb 27, 2005",Day,Zimbabwe tour of South Africa,Zimbabwe,field first,South Africa
+New Zealand,Australia,Australia,236,3,233,3,away,"Mar 1, 2005",Day,Australia tour of New Zealand,Australia,field first,New Zealand
+Zimbabwe,South Africa,South Africa,207,5,206,5,home,"Mar 2, 2005",Day and night,Zimbabwe tour of South Africa,Zimbabwe,bat first,South Africa
+Australia,New Zealand,Australia,347,5,225,5,away,"Mar 5, 2005",Day,Australia tour of New Zealand,New Zealand,field first,New Zealand
+India,Pakistan,India,281,8,194,8,home,"Apr 2, 2005",Day,Pakistan tour of India,India,bat first,India
+India,Pakistan,India,356,9,298,9,home,"Apr 5, 2005",Day,Pakistan tour of India,India,bat first,India
+Pakistan,India,Pakistan,319,9,213,9,away,"Apr 9, 2005",Day,Pakistan tour of India,Pakistan,bat first,India
+India,Pakistan,Pakistan,319,7,315,7,away,"Apr 12, 2005",Day,Pakistan tour of India,India,bat first,India
+India,Pakistan,Pakistan,252,5,249,5,away,"Apr 15, 2005",Day,Pakistan tour of India,India,bat first,India
+Pakistan,India,Pakistan,303,8,144,8,away,"Apr 17, 2005",Day,Pakistan tour of India,Pakistan,bat first,India
+West Indies,South Africa,South Africa,255,2,253,2,away,"May 7, 2005",Day,South Africa tour of West Indies,West Indies,bat first,West Indies
+West Indies,South Africa,South Africa,124,2,152,2,away,"May 8, 2005",Day,South Africa tour of West Indies,South Africa,field first,West Indies
+South Africa,West Indies,South Africa,284,6,283,6,away,"May 11, 2005",Day,South Africa tour of West Indies,West Indies,field first,West Indies
+West Indies,South Africa,South Africa,232,4,231,4,away,"May 14, 2005",Day,South Africa tour of West Indies,South Africa,field first,West Indies
+West Indies,South Africa,South Africa,141,3,138,3,away,"May 15, 2005",Day,South Africa tour of West Indies,South Africa,field first,West Indies
+Pakistan,West Indies,Pakistan,192,10,133,10,away,"May 18, 2005",Day,Pakistan tour of West Indies,West Indies,field first,West Indies
+Pakistan,West Indies,Pakistan,258,8,218,8,away,"May 21, 2005",Day,Pakistan tour of West Indies,Pakistan,bat first,West Indies
+Pakistan,West Indies,Pakistan,303,6,281,6,away,"May 22, 2005",Day,Pakistan tour of West Indies,West Indies,field first,West Indies
+Bangladesh,England,England,192,0,190,0,home,"Jun 16, 2005",Day,NatWest Series,England,field first,England
+Australia,Bangladesh,Bangladesh,250,5,249,5,away,"Jun 18, 2005",Day,NatWest Series,Australia,bat first,Wales
+Australia,England,England,253,7,252,7,home,"Jun 19, 2005",Day,NatWest Series,Australia,bat first,England
+England,Bangladesh,England,391,4,223,4,home,"Jun 21, 2005",Day and night,NatWest Series,England,bat first,England
+Australia,England,Australia,266,5,209,5,away,"Jun 23, 2005",Day and night,NatWest Series,England,field first,England
+Bangladesh,Australia,Australia,140,0,139,0,away,"Jun 25, 2005",Day,NatWest Series,Australia,field first,England
+Bangladesh,England,England,209,5,208,5,home,"Jun 26, 2005",Day,NatWest Series,Bangladesh,bat first,England
+Bangladesh,Australia,Australia,254,4,250,4,away,"Jun 30, 2005",Day,NatWest Series,Australia,field first,England
+Australia,England,England,221,1,219,1,home,"Jul 7, 2005",Day,Australia tour of England and Scotland,England,field first,England
+England,Australia,Australia,224,3,223,3,away,"Jul 10, 2005",Day,Australia tour of England and Scotland,Australia,field first,England
+England,Australia,Australia,229,2,228,2,away,"Jul 12, 2005",Day,Australia tour of England and Scotland,Australia,field first,England
+India,Sri Lanka,Sri Lanka,209,7,205,7,home,"Jul 30, 2005",Day and night,Indian Oil Cup,India,bat first,Sri Lanka
+West Indies,India,India,180,4,178,4,away,"Jul 31, 2005",Day and night,Indian Oil Cup,West Indies,bat first,Sri Lanka
+Sri Lanka,West Indies,Sri Lanka,241,6,191,6,home,"Aug 2, 2005",Day and night,Indian Oil Cup,Sri Lanka,bat first,Sri Lanka
+India,Sri Lanka,Sri Lanka,221,6,220,6,home,"Aug 3, 2005",Day and night,Indian Oil Cup,India,bat first,Sri Lanka
+West Indies,Sri Lanka,West Indies,226,7,193,7,away,"Aug 6, 2005",Day and night,Indian Oil Cup,West Indies,bat first,Sri Lanka
+India,West Indies,India,262,4,255,4,away,"Aug 7, 2005",Day and night,Indian Oil Cup,India,bat first,Sri Lanka
+Sri Lanka,India,Sri Lanka,281,9,263,9,home,"Aug 9, 2005",Day and night,Indian Oil Cup,Sri Lanka,bat first,Sri Lanka
+Africa XI,Asia XI,South Africa,196,10,198,10,away,"Aug 17, 2005",Day and night,Africa XI tour of South Africa,Asia XI,field first,South Africa
+New Zealand,Zimbabwe,New Zealand,397,5,205,5,away,"Aug 24, 2005",Day,Videocon Triangular Series,Zimbabwe,field first,Zimbabwe
+New Zealand,India,New Zealand,215,10,164,10,away,"Aug 26, 2005",Day,Videocon Triangular Series,New Zealand,bat first,Zimbabwe
+India,Zimbabwe,India,226,6,65,6,away,"Aug 29, 2005",Day,Videocon Triangular Series,Zimbabwe,field first,Zimbabwe
+Sri Lanka,Bangladesh,Sri Lanka,269,9,181,9,home,"Aug 31, 2005",Day,Bangladesh tour of Sri Lanka,Bangladesh,field first,Sri Lanka
+New Zealand,Zimbabwe,New Zealand,238,10,211,10,away,"Aug 31, 2005",Day,Videocon Triangular Series,New Zealand,bat first,Zimbabwe
+Sri Lanka,Bangladesh,Sri Lanka,295,5,220,5,home,"Sep 2, 2005",Day,Bangladesh tour of Sri Lanka,Bangladesh,field first,Sri Lanka
+New Zealand,India,India,279,4,278,4,away,"Sep 2, 2005",Day,Videocon Triangular Series,New Zealand,bat first,Zimbabwe
+Bangladesh,Sri Lanka,Sri Lanka,106,4,108,4,home,"Sep 4, 2005",Day,Bangladesh tour of Sri Lanka,Sri Lanka,field first,Sri Lanka
+Zimbabwe,India,India,255,6,250,6,away,"Sep 4, 2005",Day,Videocon Triangular Series,India,field first,Zimbabwe
+India,New Zealand,New Zealand,278,4,276,4,away,"Sep 6, 2005",Day,Videocon Triangular Series,India,bat first,Zimbabwe
+Australia,ICC World XI,Australia,255,8,162,8,home,"Oct 5, 2005",Day and night,ICC World XI tour of Australia,Australia,bat first,Australia
+Australia,ICC World XI,Australia,328,4,273,4,home,"Oct 7, 2005",Day and night,ICC World XI tour of Australia,Australia,bat first,Australia
+Australia,ICC World XI,Australia,293,5,137,5,home,"Oct 9, 2005",Day and night,ICC World XI tour of Australia,Australia,bat first,Australia
+New Zealand,South Africa,South Africa,250,8,249,8,home,"Oct 23, 2005",Day,New Zealand tour of South Africa,New Zealand,bat first,South Africa
+India,Sri Lanka,India,350,6,198,6,home,"Oct 25, 2005",Day,Sri Lanka tour of India,India,bat first,India
+Sri Lanka,India,India,123,2,122,2,home,"Oct 28, 2005",Day and night,Sri Lanka tour of India,India,field first,India
+South Africa,New Zealand,South Africa,201,9,182,9,home,"Oct 28, 2005",Day and night,New Zealand tour of South Africa,South Africa,bat first,South Africa
+New Zealand,South Africa,South Africa,245,6,243,6,home,"Oct 30, 2005",Day,New Zealand tour of South Africa,South Africa,field first,South Africa
+Sri Lanka,India,India,303,4,298,4,home,"Oct 31, 2005",Day,Sri Lanka tour of India,Sri Lanka,bat first,India
+Sri Lanka,India,India,262,6,261,6,home,"Nov 3, 2005",Day,Sri Lanka tour of India,India,field first,India
+New Zealand,South Africa,South Africa,140,5,215,5,home,"Nov 6, 2005",Day,New Zealand tour of South Africa,South Africa,field first,South Africa
+India,Sri Lanka,Sri Lanka,286,5,285,5,away,"Nov 6, 2005",Day and night,Sri Lanka tour of India,Sri Lanka,field first,India
+Sri Lanka,India,India,197,3,196,3,home,"Nov 9, 2005",Day,Sri Lanka tour of India,India,field first,India
+Sri Lanka,India,India,245,5,244,5,home,"Nov 12, 2005",Day,Sri Lanka tour of India,Sri Lanka,bat first,India
+India,South Africa,South Africa,252,5,249,5,away,"Nov 16, 2005",Day,South Africa tour of India,South Africa,field first,India
+South Africa,India,India,171,4,169,4,home,"Nov 19, 2005",Day and night,South Africa tour of India,India,field first,India
+India,South Africa,South Africa,189,0,188,0,away,"Nov 25, 2005",Day and night,South Africa tour of India,South Africa,field first,India
+South Africa,India,India,224,5,221,5,home,"Nov 28, 2005",Day and night,South Africa tour of India,India,field first,India
+Australia,New Zealand,Australia,252,8,105,8,away,"Dec 3, 2005",Day and night,Australia tour of New Zealand,New Zealand,field first,New Zealand
+Australia,New Zealand,Australia,322,5,320,5,away,"Dec 7, 2005",Day and night,Australia tour of New Zealand,Australia,bat first,New Zealand
+Australia,New Zealand,New Zealand,332,8,331,8,home,"Dec 10, 2005",Day and night,Australia tour of New Zealand,New Zealand,field first,New Zealand
+England,Pakistan,England,327,4,285,4,away,"Dec 10, 2005",Day and night,England tour of Pakistan,England,bat first,Pakistan
+England,Pakistan,Pakistan,231,3,230,3,home,"Dec 12, 2005",Day and night,England tour of Pakistan,England,bat first,Pakistan
+Pakistan,England,Pakistan,353,6,188,6,home,"Dec 15, 2005",Day and night,England tour of Pakistan,England,field first,Pakistan
+Pakistan,England,Pakistan,210,10,197,10,home,"Dec 19, 2005",Day and night,England tour of Pakistan,Pakistan,bat first,Pakistan
+England,Pakistan,England,206,9,200,9,away,"Dec 21, 2005",Day and night,England tour of Pakistan,England,bat first,Pakistan
+Sri Lanka,New Zealand,New Zealand,166,3,164,3,home,"Dec 31, 2005",Day,Sri Lanka tour of New Zealand,New Zealand,field first,New Zealand
